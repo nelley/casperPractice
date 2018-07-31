@@ -1,0 +1,137 @@
+"
+
+
+[聘書] 碩畢新鮮人OFFER ILITEK VS Intel - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者bear1991 (芋頭)看板Tech_Job標題[聘書] 碩畢新鮮人OFFER ILITEK VS Intel時間Thu Feb 22 21:15:13 2018
+各位前輩好~
+
+小弟背景為碩士畢業主修RFIC
+
+目前拿到ILITEK與INTEL的OFFER
+
+因為工作性質差異較大所以來請教各位的意見
+
+公司名稱        ILITEK                          INTEL
+
+工作內容        Analog IC design                SI/PI
+
+薪水            N(14個月)                       N-7k(14個月)
+
+公司風氣        聽說不太好                      ????
+
+優點            不用轉換跑道                    公司名氣大
+                未來還可以跳其他IC廠            未來薪資可能超越IC廠?
+
+缺點            該部門風氣似乎不好              東西要重新學
+                                                但內容不排斥
+
+小弟原本已經決定去INTEL了
+
+但拿到OFFER後薪水居然比較少...
+
+想請問如果以薪資/未來發展性的話選哪一個OFFER好呢
+
+謝謝各位前輩＜(。_。)＞
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.195.11.17
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1519305315.A.C69.html
+推 alphamac: 秒選intel
+推 gn01216674: 建議你去左邊當RD
+推 join183club: (。人 。)
+推 gn01216674: 我是不知道SI在IC廠要怎麼超越AD啦
+→ lovefish1217: N多少
+
+N大概60k上下喔~
+※ 編輯: bear1991 (123.195.11.17), 02/22/2018 21:31:05
+→ truelove356: 當然右
+→ truelove356: 某間去年分紅0.6個月 你覺得呢
+推 tingiy: Intel SI   難道是112出來的
+推 ptta: intel前幾年不是才一波嗎？
+→ bmt891: 左邊同性質的公司多面試幾間阿
+推 pjc202: 左 別把路走窄
+推 arod13arod: intel也給太低了吧...
+推 googoo1102: intel是約聘嗎
+
+不是約聘喔QQ
+推 Eric0605: 外商本來就沒有想像給的高好嗎 年新300都只是傳說
+推 Iamjkc: 外商差異很大啊   ～～
+※ 編輯: bear1991 (123.195.11.17), 02/22/2018 22:47:58
+推 andy261: 左 在跳N
+推 squard: 去談高一點，不然以後學弟要進去不就這種薪水
+推 lovebridget: 冒牌的嗎 lntel?
+→ ji3ji3ji3: 所以intel  53k上下? 好低喔
+推 lovefish1217: Intel真的有點太低了…不過是我還是會去看看至少知
+→ lovefish1217: 名度高到破表，話說新鮮人嗎？
+推 jackeighteen: INTEL新人跟有經驗差這麼多?!!
+→ ji3ji3ji3: 所以還是發哥 棒棒 76k 的保證
+推 knight313: intel原來那麼鳥喔XD
+推 RABBITBITCH: 疑？我哥8年前新鮮人進intel沒這麼低...
+推 jecko: intel去年底裁員不少RD
+推 jecko: intel資深一點的薪水不低啊，剛畢業的就不清楚
+推 dtundertaker: Intel分紅有嗎？
+
+沒有說，所以只能當作沒有了
+※ 編輯: bear1991 (123.195.11.17), 02/22/2018 23:57:44
+→ wind5030: 英特爾有用新鮮人呦？原po應該很優秀吧
+推 ho2002: 我不相信英特爾開這個價.......
+推 Feases: 你還年輕，建議以工作內容的未來發展為主，別選了有名公司
+→ Feases: 但是未來發展會受限制的工作。
+→ GiantChicken: intel這種價 這是不是有點詭異
+推 eisner5566: AD越做越值錢，Intel開那錢是在侮辱誰@@
+→ Vanquze: 怎可能 Intel是世界一流的公司欸
+推 ppboy: intel這個職等沒有分紅的，你確定不是Green badge嗎
+噓 touchBB: INTEL拿53k? 這不是反串就是唬爛
+→ touchBB: 我朋友在群輝就75k
+推 LinuxKernel: 群暉75K...?
+→ LinuxKernel: 喔，看到上面這ID被狂噓了
+→ ken1325: 求內推
+推 biubiuBOT: 樓上別噓那麼快，就是開這麼低...
+→ biubiuBOT: 回太快忘了看ID，我錯==
+推 ptta: 不覺得intel在台灣有rd，那些充其量只能說是為了賣東西才做
+→ ptta: 的事
+推 drias: 大小M，滷肉，螃蟹 ... 相關的公司去面看看吧～
+推 iamala: intel，美國rd薪水也是科科，台灣能多好？現在一堆costdow
+→ iamala: n缺跑出來，看能不能靠名氣騙到一些亞洲國家優秀又新鮮的
+→ iamala: 肝，免洗的XD
+→ castorr: 國防役嗎？
+推 WMW1124: 想問一下 原po是研替嗎？
+→ PegasusSeiya: 台灣薪水都不高啦，其實選開心就好
+→ footeye: Intel 用新鮮人！？
+推 jackeighteen: 強烈覺得是GB非BB，但現在有收新鮮人是真的
+推 kenhsu28: 左+1
+推 tenseven: 在多看看幾家 某家要外不外要內不內的
+推 a22918097: 這樣來說I那個薪水其實不少系統廠新人都超過？
+推 alberthaha: 我幾位Intel朋友去年底都掰掰了，要去Intel要考慮清
+→ alberthaha: 楚，開鍘不手軟
+推 cutell2010: intel去年底才layoff一大票人，不要太迷信外商光環
+推 iceberg: 左
+推 lovebridget: 剛裁完去最安全啊 正常能量釋放 裁他省的就你賺的
+→ wondtty: 不用擔心intel 砍人, 去intel 本來就是打算過水而已
+推 moboo: 我也覺得去intel比較好
+
+推文自動更新已關閉
+
+
+
+
+"

@@ -1,0 +1,74 @@
+"
+
+
+[情報] 高通推出AI引擎支援Snapdragon移動平台 - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者zxcvxx (zxcvxx)看板Tech_Job標題[情報] 高通推出AI引擎支援Snapdragon移動平台時間Mon Feb 26 14:29:24 2018
+[情報] 高通推出AI引擎支援Snapdragon移動平台
+
+http://bit.ly/2BU3rCO
+
+高通旗下子公司高通技術公司發表(2018.2.21)高通人工智慧引擎（Qualcomm
+Artificial Intelligence Engine），該AI引擎將支援Snapdragon 845、835、820及660
+行動平台，使其具備如Snapdragon 845先進的終端裝置AI處理能力。
+
+高通表示，AI引擎能極大化客戶裝置內建的邊際網路智慧，確保無論是否處於網路連線狀
+態之下，都能打造人工智慧（AI）使用者體驗的最佳表現，裝置上展現的AI主要優點包括
+即時回應、改善隱私、強化可靠度。
+
+在AI Engine支持下，Snapdragon核心硬體架構 - 高通Hexagon Vector處理器，Qualcomm
+®Adreno™GPU和Qualcomm®Kryo™CPU--設計用於在設備上快速高效地運行AI應用程序。
+這種異構計算方法使開發人員和OEM能夠優化智慧手機和其他邊緣設備上的AI用戶體驗。
+
+將利用Snapdragon行動平台上的人工智慧（AI）引擎元件來加速其設備上的AI應用程式，
+有智慧型手機製造商，包括小米、OnePlus、vivo、OPPO、摩托羅拉、華碩、中興通訊、
+Nubia、Smartisan和Blackshark等。
+
+人工智慧（AI）軟體開發人員能透過Snapdragon行動運算平台為特定目標所打造出優化的
+使用情境，例如：
+商湯科技（SenseTime）與Face ++公司為圖像和相機功能提供各種預先訓練的神經網絡，
+包括單鏡頭拍攝散景、臉部解鎖、情境偵測等多樣為影像以及攝影所打造的預先訓練神經
+網路功能。
+Elliptic Labs提供Snapdragon客戶於智慧型手機上進行超音波手勢感應操控。
+虹軟科技(ArcSoft)為Snapdragon客戶提供單攝像頭和雙攝像頭算法，並積極致力於AI用
+戶體驗的開發。
+創通聯達智能技術公司（Thundercomm）則提供完整的AI視覺解決方案，打造相關使用情
+境與終端裝置。
+Uncanny Vision針對人、汽車以及車牌偵測以及辨識上進行模組開發。
+
+雲端領導業者們也優化搭載Snapdragon智慧手機上的人工智慧（AI）功能應用。
+騰訊近期在廣受歡迎的手機QQ社群媒體的手機QQ應用程式中發表了一項名為高能舞室的高
+參與度的功能。
+Android 系統中的手機QQ應用程式採用AI引擎的元件來加速熱門遊戲的畫面更新率。
+百度計畫採用高通的AI引擎及其生態體系。
+
+http://bit.ly/2BU3rCO
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 203.145.192.245
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1519626567.A.9BA.html
+
+推文自動更新已關閉
+
+
+
+
+"

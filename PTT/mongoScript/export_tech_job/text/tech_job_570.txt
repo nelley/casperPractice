@@ -1,0 +1,46 @@
+"
+
+
+[請益] 有用過LIBRE模組 開發Alexa嗎? - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者leemack (leemack)看板Tech_Job標題[請益] 有用過LIBRE模組 開發Alexa嗎?時間Wed Feb 21 15:00:21 2018
+想請教網上前輩
+
+有人有用過LIBRE模組 成功開發出Alexa智慧喇叭嗎?
+
+這家公司 感覺很奇怪 有在推module, demo board也可以work,
+但後續就沒有了 問什麼都好像很難回答 讓黑人三條線?
+
+偶看目前產品都是本身僅具備上網功能 再搭配ECHO DOT,
+
+好像很少有把Alexa直接作在產品內.(智慧喇叭除外)
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 59.124.83.208
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1519196423.A.04C.html
+→ GuitarOcean: 問這種要錢的
+
+推文自動更新已關閉
+
+
+
+
+"

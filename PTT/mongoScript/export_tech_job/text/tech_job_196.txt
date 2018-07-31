@@ -1,0 +1,96 @@
+"
+
+
+Fw: [徵才] WFC 誠徵 Software Engineer - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者wfcltaipei (wF)看板Tech_Job標題Fw: [徵才] WFC 誠徵 Software Engineer時間Thu Feb  8 17:05:56 2018
+※ [本文轉錄自 Soft_Job 看板 #1QT-XexZ ]
+
+作者: chin33z () 看板: Soft_Job
+標題: Re: [徵才] WFC 誠徵 Software Engineer
+時間: Mon Feb  5 13:15:14 2018
+
+
+公司名稱，統編(中華民國以外註冊可免填):Win &amp; Fun Capital
+
+公司地址(填寫詳細至號): 台北市南港區南港路三段50巷24號2樓
+
+職缺:Software Engineer
+
+
+職缺能力經歷要求:
+-3+ years of linux/C/C++ work experience
+-1+ year of software-layer networking experience
+-Familiarity with TCP/UDP,IP, e.g. NAS, VoIP, IoT experience
+-Familiar with optimizing runtime performance (cache misses, CPU instructions,
+ strace), e.g. embedded systems, firmware, IoT experience.
+-Bachelor's degree or above in computer science, computer engineering,
+ electrical engineering, or related field.
+-English proficiency NOT required.
+
+工作內容:
+-Architect low level C/C++ API that supports market data and order management
+ on new exchanges.
+-Work with data scientists and traders on researching patterns in financial
+ markets.
+-Support trading operations and maintain trading systems.
+
+員工是否需自備工具? (是/否) :否
+
+薪資(月薪): 年薪120-220萬
+
+年終獎金計算方式:包括在年薪內
+
+工時: 每天8小時
+
+每日工作時間: 08:30AM~6:00PM  中午休息(11:30~1:00)
+
+每周工作時間: 8*5=40
+
+加班費制度：比照勞基法
+
+工作環境與該職缺團隊介紹: https://www.winfuncapital.com/
+
+人資或徵才聯絡方式: Please email your resume to hr@winfuncapital.com
+
+Please upload your resume to Dropbox as a PDF.
+
+Save the PDF name in lower case as
+
+&lt;chinese_name&gt;.&lt;english_last_name&gt;.&lt;english_first_name&gt;.pdf
+
+https://www.dropbox.com/request/JzgfvhIka1jSWvBHjz7k
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.160.1.29
+※ 文章網址: https://www.ptt.cc/bbs/Soft_Job/M.1517807720.A.EE3.html
+→ paint: 這家公司已經徵超過1年是怎麼回事？
+推 white0928: http://t.cn/R8sayjg。想用文章回應1F
+
+※ 發信站: 批踢踢實業坊(ptt.cc)
+※ 轉錄者: wfcltaipei (114.43.29.150), 02/08/2018 17:05:56
+
+推文自動更新已關閉
+
+
+
+
+"

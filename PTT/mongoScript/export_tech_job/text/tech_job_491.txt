@@ -1,0 +1,153 @@
+"
+
+
+[請益] 系統廠FW的職涯方向 -- 職業篇 - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者abbb1223 (跟著我一起搖擺)看板Tech_Job標題[請益] 系統廠FW的職涯方向 -- 職業篇時間Sun Feb 18 00:20:25 2018
+安安，給前輩們拜新年，恭喜發財，希望人人300萬。
+
+小魯目前在一間小小小系統廠擔任FW，薪水為42*12。目前有轉職的打算，想事先做好相關
+準備，故上來請教前輩們，想藉著前輩們的肩膀一探究竟。
+
+為了簡化篇幅，這篇是著重在職業的選擇，後續如有需要會再請教面試與薪資的部分。
+
+------------------------------------------------------------------------------
+
+工作上用到的工具是Microchip 8bit的MCU，會的技能有I2C與SMBus。硬體方面能力普普，
+會看電路圖幫忙debug；軟體架構目前會RR、RR with interrupt、function queue sched-
+uling。
+
+在1X4上面看了一輪職缺，大約可以分成三個類別
+
+1.RTOS embedded system FW
+
+這工作的內容應該跟我現在做的差不多，差別只在MCU要上RTOS。但看了1X4上面的職缺需
+求，大部分都是要會\"用\"就好(比如用現有的FreeRTOS)，那如果有辦法自己寫出一個RTOS
+，在薪資上面有辦法喊比一般求職者更高一截嗎?
+
+因為我想自己寫一個RTOS掛在MCU上，感覺滿好玩的，挑戰性也高。
+
+但我不清楚已商業化RTOS的價位、實用性與應用面廣不廣，如果您是一位director，您會
+直接買一個現有的RTOS來使用，或者是另外用較高薪聘請一位FW來專門研發自家的RTOS?
+
+
+
+2.Linux related
+
+有時候在職缺的需求下會看到需有Linux/Unix相關經驗，但這類的職缺\"有時候\"又希望面
+試者有RTOS的經驗。對我來說，Linux與RTOS都是OS，有辦法兩者共存嗎?還是這類職缺需
+要\"在Linux的環境下開發RTOS\"?(有錯請指正)
+
+據我所知，Linux的資源都是開源的，很多功能的代碼都可以上網找到，所以這類工作的重
+點是著重在軟體架構上的開發嗎?也需要像我現在一樣，看IC的spec，然後再寫出相對應的
+軟體嗎?這類的工作範疇大概是什麼?對產品的了解程度要高嗎?
+
+
+
+3.IC廠的FW
+
+上網看到有IC廠在做USB產品的韌體開發，需要會USB、SPI、I2C。SPI與I2C在在職的工作
+中有碰到，相對還算熟悉，所以照理說也可以跳到上游去寫這塊(?)
+
+照理說IC廠的designer與系統廠的FW看的protocol的spec都是同一份，所以我只要把spec
+看熟，面試應該就沒問題了吧!?
+
+那IC廠FW的工作職責大概落在哪個範圍呢?會很雜嗎QQ?
+
+IC廠的core是自家開發的嗎?還是也是用大廠的?
+
+軟體上的需求難度會很高嗎?有必要上RTOS嗎?
+
+薪資水平與HW比起來，會少一截嗎?那與系統廠的FW比起來呢?
+
+在工作上如何與HW互動?
+
+有必要參與IC SPEC的撰寫嗎?
+
+工作內容會不會被侷限在某一個領域上?比如只會碰到USB、I2C的protocol，軟體的架構
+也已被訂死，只要依樣畫葫蘆就好。
+
+
+
+
+希望有在這三大類工作的前輩們可以分享一下心得給後輩我參考，謝謝。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.233.23.76
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1518884427.A.604.html
+※ 編輯: abbb1223 (36.233.23.76), 02/18/2018 00:24:40
+推 join183club: 感覺你懂很多，但有些地方怪怪的。建議找一本書，整
+→ join183club: 理一下觀念。
+推 chuegou: 免錢的freertos 收費的threadX ucosll 自己刻造輪子有挑
+→ chuegou: 戰性沒錯 但必要性很低 對公司來說要找人接也麻煩吧？
+→ chuegou: linux和rtos共存的目的是什麼 linux通常運作在有mmu環境
+→ chuegou: rtos則相反 所謂共存是指？
+推 turkeyonly: 共存應該是指real-time linux吧
+→ chengcti: Mcu 跑 rtos 來得及嗎？
+推 readonly: 這篇文像是10幾年前的文…
+→ readonly: 孩子，世界已經變了…
+推 readonly: 你不覺得你很像是在幫hw打工嗎？
+推 readonly: i2c smbus 是簡單到不像話的 protocol
+→ readonly: usb 難一點，但是10幾年的老技術了，別人都做完了
+→ readonly: Linux 是唯一值得投資的…至少以他為基礎還能加東西
+→ readonly: 難度的不是你想的找到你就看得懂的程度
+推 readonly: 不要重做一個 rtos，有興趣還還不如去看 risc-v
+推 WisdomOrLie: 1. 看公司，你要找到系統廠讓你幹rtos應該也不好找
+→ WisdomOrLie: 2. linux的子系統很多，工作也分很多層  看錢&amp;興趣
+→ WisdomOrLie: 3. 面試有沒有問題跟 扛屎的跟FW看的spec是不是同一
+→ WisdomOrLie: 份沒有直接關係  豬屎屋工作也是有分驗證跟應用的
+推 readonly: 技術只是基本，而且你還不足…還不如一門深入，usb pci
+→ readonly:  bluetoorh wifi…等選一門精通…一門通其他也大同小易
+→ readonly: …系統廠太雜…只能當作學歷不夠的人的門檻…年輕人不
+→ readonly: 要久待
+推 WisdomOrLie: 薪資說不準、跟HW互動就是吵架、當IC出包的時候 就有
+→ WisdomOrLie: 機會一起定SPEC惹  嘻嘻
+→ WisdomOrLie: 豬屎屋fw的工作 你可以挑個文件去看當作練習 先翻翻
+→ WisdomOrLie: USB好惹  閱讀量先評估一下  之後的東西大概幾是翻倍
+推 readonly: linux 是學 C 的好教材，也不要只侷限在會寫 device dr
+→ readonly: iver 的程度…那是基本到不能在基本
+推 BananaMonkey: 加油 要學的還很多。可以朝2來發展，不過你擁有的pr
+→ BananaMonkey: otocol知識還蠻少的，如果在會用到linux based 晶
+→ BananaMonkey: 片的公司還蠻不夠的，建議多看多也要學會怎麼「用」
+→ BananaMonkey: （跟樓上說的一樣老東西了也不用自己做一個出來），
+→ BananaMonkey: 2可以往上層鑽研也可以往下層學習... 不過我覺得這
+→ BananaMonkey: 類卡在中間的工作系統廠好像比較多～ 呵呵，工作的
+→ BananaMonkey: 確很雜。學成了可以往上層發展，發展空間很大。
+推 TianBonBon: 1自幹一個os確實有其價值，但能否有工業強度是考量點
+→ TianBonBon: 。送到外太空的os都會出包了，公司一般都選量產過的os
+→ TianBonBon: 比較保險。
+推 Leadgen: 你自己會寫一個RTOS是很好，但沒人敢用呀。用現成的就好
+→ LsugerI: 不知道為什麼你這麼執著在RTOS上，個人覺得讀得懂spec加
+→ LsugerI: 能快速了解fw架構才是基底，看過有人看code是用大量try&amp;e
+→ LsugerI: rror，不去思考code背後的想法是什麼，改code時根本就不
+→ LsugerI: 會改/容易出包
+推 joehong: 孩子 感覺你蠻有想法的 前輩在這只能跟你說 IC廠FW年薪是
+→ joehong: 你現在的3倍
+推 kshsphone: 加油！同為系統廠跳到ic fw
+推 ALiGoo: 我是系統廠FW轉2再轉3 建議直接3吧
+推 guanole: 有些系統廠是HW幫FW打工...
+
+推文自動更新已關閉
+
+
+
+
+"

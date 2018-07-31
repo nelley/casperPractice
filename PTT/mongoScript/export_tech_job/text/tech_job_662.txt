@@ -1,0 +1,77 @@
+"
+
+
+[情報] LED封裝專利戰：億光 vs. 首爾半導體 - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者zxcvxx (zxcvxx)看板Tech_Job標題[情報] LED封裝專利戰：億光 vs. 首爾半導體時間Thu Feb 22 15:46:36 2018
+[情報] LED封裝專利戰：億光 vs. 首爾半導體
+
+http://bit.ly/2op88fC
+
+南韓首爾半導體公司(Seoul Semiconductor)於2018年2月20日宣布在英國法院對台灣LED
+封裝大廠億光（Everlight Electronics）提起的專利無效訴訟，終獲初步結果取得勝訴
+。
+
+本案起始於去年(2017)，首爾向英國專利法院提交了專利無效訴訟，針對Everlight專利
+EP 1169735。在英國法院進行深入調查後，2018年2月14日，英國專利法院對於Everlight
+該專利撤銷。法院還命令Everlight必須向Seoul支付大約100萬美元（712,247.10英鎊）
+的訴訟費用。
+
+本案該Everlight的專利EP1169735(Semiconductor radiation emitter package)，涉及
+散熱LED封裝結構，係移轉自GenTex Corp。同時，最近Everlight也在美國聯邦法院針對
+其競爭對手Bridgelux以該專利為專利家族基礎之美國專利提起專利侵權訴訟。
+
+以上，還有Seoul公司對Everlight提起專利權舉動：
+Seoul公司在南韓漢城也採取了進攻行動。目前，首爾正在對Everlight LED產品的經銷商
+提起專利訴訟。
+首爾在德國針對Everlight LED產品的全球分銷商Mouser Electronics發起了兩起專利侵
+權訴訟。
+在意大利Seoul針對涉嫌侵權的Everlight公司提起了針對Mouser的新專利訴訟。隨著
+Seoul最新全球舉訟行動，Mouser似乎已將全部Everlight產品從其全球產品分銷列表中刪
+除。
+
+Everlight反擊
+億光表示，控告首爾半導體及其經銷商侵害億光專利技術的訴訟案件仍進行中，億光堅信
+該專利為有效，將捍衛客戶及股東權益。
+
+億光分別於2017年5月4日及2017年6月3日向德國曼海姆地方法院提出專利侵權訴訟，控告
+首爾半導體以及其經銷商Neumuller侵害億光專利技術。
+
+iKnow觀點及評析
+因該兩家業者是LED產業鏈上下游關係，以致未來合作機會仍很大。所以訴訟策略皆採取
+從最終端產品(經銷商)提告，一來取得高額損害賠償金及授權金，二來從經銷商或通路著
+手來施壓逼對方就範。
+
+http://bit.ly/2op88fC
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 203.145.192.245
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1519285599.A.C9E.html
+噓 pf775: 韓國人不意外
+噓 Roderickey: LED 顆顆 狗咬狗
+→ everbtcam: 這兩家是競爭者怎麼是上下游關係？搞錯了吧？
+
+推文自動更新已關閉
+
+
+
+
+"

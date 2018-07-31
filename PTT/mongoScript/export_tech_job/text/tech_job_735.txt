@@ -1,0 +1,70 @@
+"
+
+
+[請益]美光RDA面試請益 - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者edwdelea (Wind)看板Tech_Job標題[請益]美光RDA面試請益時間Mon Feb 26 21:57:25 2018
+各位年薪300萬UP的前輩:
+
+小弟我即將於幾天後, 去美光面試RDA ENGINEER(APD)職位.
+
+我本身有半導體製程跟感測器經驗(學校),可是 \"沒有\"記憶體 製程/原理方面的背景.
+
+請問我該去研讀哪些資料先? 以及面試可能會問哪些問題?
+
+
+先跪謝各位300萬年薪的大大.
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 115.43.15.130
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1519653448.A.E1C.html
+推 cscscscs22: 很爽
+推 gn02384419: Highlight L2就對了
+推 hkh25: 有分製程/設備/值班, 製程很累主要是製程改善跟report
+推 hkh25: 設備建recipe相對輕鬆, 值班如2F大大所說
+→ Vanquze: 這是Defect Team嗎?
+推 lponnn: 負責highlight的部門
+推 elton80417: 美光CP值超高呀！
+噓 poba8506: 這是一個一年到尾都在喇賽的部門...
+推 jkl852: 負責嗨賴人的部門
+噓 SMDB: 幹 又被DI showdown惹
+→ Vanquze: 聽起來好像很爽.  只要Highlight人就好
+推 PTTcrazy: 公司需要去爽的
+推 jameswang278: 需要詳情請站內我
+推 jy02453563: 超推～只要一張嘴就好
+推 changtaco: 美光CP值超高 RDA很適合練練兵
+推 simba08130: 如果只有一張嘴 保證你飛高高～
+→ jack21205: RDA只有雷 整天跟媽久吵架就飽了
+推 Esolia: 我是其他媽久的 其實RDA很累 嗨賴一個L2他們自己也要出報
+→ Esolia: 告解釋  我們平均13.5小下班  RDA我常看到同梯的15到16只
+→ Esolia: 為了寫報告給老闆 不過我還是很賭爛RDA就是了
+噓 poba8506: 有膽不要hold 過來掃啊！還爽喔……
+推 simba08130: 工作唄～
+推 scottnet: 覺得RDA爽的就是常被highlight的
+推 furnaceh: 15-16小時下班，這麼操
+推 rockers: CMP action:PM Pad/Disk/head suffer lot是PM前的
+
+推文自動更新已關閉
+
+
+
+
+"

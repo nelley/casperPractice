@@ -1,0 +1,121 @@
+"
+
+
+[請益] 關於InP - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者yohuanwei ()看板Tech_Job標題[請益] 關於InP時間Wed Feb  7 18:01:05 2018
+
+
+---------代Po----------
+
+
+各位大大
+小妹不才，文組畢業
+但因目前從事工作與化合物半導體有關係
+這邊想請教幾個問題
+如果提問內容有不恰當的地方
+還請各位告知&gt;&lt;!!!
+
+
+磷化銦wafer除了使用於HEMT及HBT之外，
+還能應用在哪方面呢？
+(最終成品多半是適用於哪種用途上？
+以及主要能適用於哪些企業？)
+
+另外，因iX而火紅的VCSEL等的3D感測這塊，
+目前的趨勢都是由砷化鎵磊晶而成，
+磷化銦是否也能適用於3D感測方面？
+還是是因為單價相較砷化鎵高的關係，
+無法得出其最大效益？
+
+
+另一個問題是
+目前市面上磷化銦wafer流通的尺寸
+多半為2及3吋
+想請教一下，一片2吋的wafer，
+可以做出多少個chip出來呢？
+可以切割多少個die？
+
+
+比起砷化鎵，因磷化銦在網路上
+能找到的相關資訊實在不多
+還請各神人可以幫小妹我解答&gt;&lt;
+
+謝謝！！！
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.177.73.15
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1517997667.A.B03.html
+※ 編輯: yohuanwei (180.177.73.15), 02/07/2018 18:02:55
+推 a077919: 微分= 1/P
+※ 編輯: yohuanwei (180.177.73.15), 02/07/2018 18:04:48
+推 popileds: 你面試穩懋對吧
+→ tcwu: 專業要錢的，服務也要錢的！
+代回：小妹願以一杯咖啡做為解答回報&gt;&lt;
+→ ya113010: 先證明妳是小妹
+推 yoyoming: 發光二極體
+→ nmjkluiop: 自己的報告自己寫？
+推 tetsu2008: 林口YY
+推 sosth: 先證明妳是小妹
+噓 john11894324: 小妹圖
+推 jaroce: InP量子點？
+→ mico409: 伸手牌 然後也不附圖 這.....
+噓 lianki: 作業自己做
+噓 touchBB: 學生文
+噓 lostman: 先證明是小妹再說？
+噓 algorithm: #1O64yS8g (Militarylife)[解籤] 陸軍飛彈光電基地勤務
+噓 MSEEDC: ...
+第一行就說是代Po了啦
+小妹朋友圖在此，無碼
+https://i.imgur.com/XaU1f05.jpg
+→ sc1: 可以用在微軟企業
+→ hinet: SMART photonics
+→ sc1: InP用在微軟
+※ 編輯: yohuanwei (180.177.73.15), 02/07/2018 21:01:13
+噓 sowhat7511: 自己想辦法
+噓 boson5566: 真是可愛的問題
+推 IntroRomeo: 是小妹一定有強者站內妳的！
+→ BeelZeBubNo7: 基板太貴沒前途～
+噓 ken3125212: 重讀理組啊
+推 bensterson: detector
+推 lucifer19: 第一個問題不會 第二個問題看你產品大小阿 良率阿 有效
+→ lucifer19: 區阿 沒有固定的啦
+→ PUTOUCHANG: 可以炒股
+噓 elpsycongroo: 作業自己寫
+→ bensonliu: 2吋？3吋？訊息也太古老了吧～ InP目前市場很局限，有
+→ bensonliu: 空google一下做InP的國外公司，訊息很多。
+→ jimjiang: 不知道 小弟我目前只碰4吋GaN
+→ NicolaiGedda: InP這麼脆，比GaAs還難Handle，要突破3吋很難
+噓 dxdy: 論文自己寫
+推 ultimachen: https://tinyurl.com/yblw9re5
+推 cityhunter04: 叫小妹跟主管撒嬌一下就沒事了....
+噓 azsxazsxa: 呵呵呵
+感謝各位大大解答小妹的問題！
+※ 編輯: yohuanwei (180.177.73.15), 02/08/2018 18:08:40
+噓 yukaihu0712: 不會查paper?
+
+推文自動更新已關閉
+
+
+
+
+"

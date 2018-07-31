@@ -1,0 +1,197 @@
+"
+
+
+Fw: [徵才] 偀向軟體Wearisma徵全端工程師(70~90k) - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者freetempo (Tempo)看板Tech_Job標題Fw: [徵才] 偀向軟體Wearisma徵全端工程師(70~90k)時間Sun Feb 25 17:03:55 2018
+※ [本文轉錄自 Soft_Job 看板 #1Qadk6m_ ]
+
+作者: freetempo (Tempo) 看板: Soft_Job
+標題: [徵才] 偀向軟體Wearisma徵全端工程師(70~90k)
+時間: Sun Feb 25 17:01:55 2018
+
+公司名稱，統編:
+
+    Wearisma Taiwan
+    偀向軟體有限公司 (64219643)
+
+    職缺網頁:
+ https://goo.gl/GxqxhK
+
+    公司網站:
+ https://www.wearisma.com/
+
+
+公司地址(填寫詳細至號):
+
+    台北市中正區北平東路30-2號 (近捷運善導寺)
+
+
+職缺:
+
+    全端工程師 x 2
+
+
+職缺能力經歷要求:
+
+    [基本條件]
+    - 資訊工程背景相關系所畢業，3年以上工作經驗
+    - 良好的英語會話與表達溝通能力及傑出的團隊合作
+    - 與國外同仁開會時，能接受彈性上班時間 （例如：12PM - 8PM/每週1~2天)
+    - 致力於撰寫簡潔有效率、可讀性高、易於維護及測試的程式
+
+    [加分條件]
+    - Experience working on software development projects using languages
+      such as Ruby, Javascript, Java, C#, C++, Python
+    - Experience document-oriented databases
+    - Experience working with Agile approaches
+    - Experience building beautiful front-end with HTML5 and CSS3
+
+
+員工是否需自備工具? (是/否) :
+
+    否。員工均配Mac筆電
+
+
+薪資(月薪):
+
+    TWD 70,000 - TWD 90,000
+
+
+薪資(保證最低年薪，必填項目):
+
+    保證年薪 12個月，年終2 ~ 3個月
+
+
+年終獎金計算方式:
+
+    全薪計算
+
+
+工時:
+
+    - 每日工作時間:
+      週一至週五 11:00AM - 7:00PM (7小時)  (午休1小時)
+
+    - 每周工作時間:
+      7 * 5 = 35 (小時)
+
+
+加班費制度：
+
+    基本上不需加班，如需加班則比照勞基法
+
+
+工作內容:
+
+    - Design and implement features on platform
+    - Write clean, maintainable and efficient code
+    - Contribute in all phases of the development lifecycle
+    - Work well with other developers, product owners and client support teams
+
+
+工作環境與該職缺團隊介紹:
+
+    We are looking for passionate developers who care about software excell-
+    ence. You will join a small team of exceptional developers working in a
+    fast-paced, startup environment to deliver world-class software.
+
+    The Full Stack Developer will serve a vital role designing and implement-
+    ing new features and supporting existing ones.
+
+    You will work both independently and in the team to get features completed,
+    working on all parts of the stack designing data models, algorithms and
+    creating UIs.
+
+    Our tech stack includes MongoDB, Ruby, Elasticsearch, HTML5, CSS3, Javasc-
+    ript and Python. We have integrations with many social platforms and sync
+    with massive amount of data.
+
+    We are also constantly experimenting with AI and data analysis to create
+    useful insights for our users. The most successful experiments get integ-
+    rated into the product.
+
+
+工作福利:
+
+    - 特休15天，滿一年加一天
+    - 一年一次補助機票住宿前往總公司交流(倫敦)
+
+
+公司介紹:
+
+    Wearisma總部位於英國倫敦，成立於2015年。
+    Wearisma Taiwan成立於2018年。
+
+    Wearisma partners with global premium and luxury brands and agencies to
+    create meaningful and lasting connections. Founded by industry experts
+    who specialise in growing global audiences, we built our products with
+    insight into the way brands succeed. That’s why our Influencer discovery
+    and management software is designed to help brands identify and build
+    lasting relationships with influencers with the help of powerful analytics.
+
+    Wearisma is dissecting the world of social media and influencer
+    marketing one platform at a time, supporting an illustrious roster of
+    world-class clients who are market leaders in their respective fields
+    from lifestyle, technology, beauty, fashion, automotive to art to be the
+    innovators in influencer marketing.
+
+
+人資或徵才聯絡方式:
+
+    請將 CV 寄至 jobs@wearisma.com
+
+
+備註:
+
+    Wearisma是經營influencer(網紅)和Brands(業主)間媒合及分析平台的英國新創，
+    客戶多為luxury或是fashion brands，及各社群網站的influencer。
+
+    在台灣預計會先組成3~4人的team，希望能找到工作經驗3年以上的優秀工程師，
+    若無Web相關經驗也沒關係，歡迎投遞CV。
+
+    公司薪資及福利佳，月薪70k~90k、每年15天up特休、每年一次補助倫敦機票及住宿
+    、每日工時7小時少加班、員工配Mac筆電等等。
+
+    之前有些板友對於工作時間有些疑問，因為台灣這邊成立初期需要跟倫敦的Engineer
+    有較緊密的開會及討論(因此對英文的溝通能力會比較要求)，所以每週可能有1~2天會
+    晚一小時上/下班，但工時不變(e.g.從早上11點~晚上七點改成中午12點~晚上8點)，
+    之後會再視情況做調整。
+
+    歡迎大家投遞履歷！
+ https://goo.gl/GxqxhK
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.0.219.194
+※ 文章網址: https://www.ptt.cc/bbs/Soft_Job/M.1519549318.A.C3F.html
+
+※ 發信站: 批踢踢實業坊(ptt.cc)
+※ 轉錄者: freetempo (123.0.219.194), 02/25/2018 17:03:55
+→ PUTOUCHANG: 只會 hello excel 可以嗎?
+→ Submariner: 這間可以跟GOOGLE比嗎?
+推 Ferrara: 薪資福利不錯 給推
+
+推文自動更新已關閉
+
+
+
+
+"

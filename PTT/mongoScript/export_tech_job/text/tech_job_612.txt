@@ -1,0 +1,79 @@
+"
+
+
+Re: [請益] 系統廠FW的職涯方向 -- 職業篇 - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者shinza (BBBBB)看板Tech_Job標題Re: [請益] 系統廠FW的職涯方向 -- 職業篇時間Sat Feb 24 14:46:30 2018
+好像很多人都有類似問題，還是回在板上。
+
+: R: 不好意思，小弟愚昧，請問porting driver指的是什麼意思?
+例如公司的平台跑RTOS，但需要一個wifi，這時會找wifi vendor問有沒有wifi driver。
+wifi vendor一定會提供linux版的wifi driver，但隨之而來的問題是，怎麼把這個linux
+wifi driver弄到公司的RTOS，這個過程就是porting driver。
+
+:    Linux driver架構指的是什麼@@可以大致解釋一下給我聽嗎?謝謝!!!!
+因為Linux需要支援幾百種driver，所以需要定義driver的架構，確保driver都照一樣的規則
+做，這樣Linux才有辦法支援數百種driver。 詳情可以去看Linux device driver的目錄，
+開宗明義就是定義Linux有哪些driver類型，所以有人會說寫driver很無聊，因為只能乖乖
+聽OS的話 XD
+
+:    因為linux太強大，很難有整體觀念 &lt;-- 這句話跟ocompiling -&gt; linking -&gt; loading
+:    有什麼關係嗎? 我有辦法說出這整個流程跟原理，但這對了解linux有什麼幫助嗎?
+這是舉例，一般來說，一個東西如果功能越齊全，愈沒問題，你就愈不會去了解它，
+就像買車一樣，福特的車主一般都比TOYOTA懂車XD
+
+搞Linux也是，因為它太穩定(跟RTOS比起來)，不太會發生像突然就stack overflow，CPU一直被
+某個task佔住等，所以通常搞driver就是專注在搞driver，你比較不需要擔心這個driver對其他
+driver的交互影響等。
+
+: R: 請問專注在interface上面，是\"只要寫有關interface方面的程式\"就好了嗎?
+:    比如說，像我在系統廠，就只要專心寫I2C的function就好了
+
+大概是這個意思，不過I2C太簡單了，但如果是USB的話，很可能就一兩個人專門維護
+USB這個interface的driver/function。簡單來說大家都是小螺絲釘，只專注在自己的
+領域。
+
+:    IC SPEC/驗證這一塊大致上的內容是在做什麼呢?是指測試工程師嗎?
+:    謝謝前輩撥冗查閱!
+
+開一顆IC前要先決定這顆IC的功能跟市場，這時資深工程師會跟PM/Marketing根據市場客戶
+需求來定義IC的SPEC，接著designer會去把SPEC的功能做/兜出來，這時要有人去
+驗證這些功能是否有bug，這就是驗證(verification)所需要做的工作。驗證的人需要
+一定的經驗來設計理想的test case以求在短時間內涵蓋多數的use case.
+IC功能驗證完就是送tapeout了。 這跟所謂測試工程師是不一樣的。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.226.192.36
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1519454793.A.3B4.html
+推 join183club: 解釋的不錯喔
+推 jackeighteen: 淺顯易懂！
+推 a9041208: 推
+推 eisner5566: 淚推，福特車主朋友最近想考汽休證照QQ
+推 heerodream: 淺顯易懂 大推
+推 zaku: 200+有點ㄍ一ㄥ，但150+應該沒什麼問題
+→ notBeing: 抓到了，偷黑福X XDDDDD
+
+推文自動更新已關閉
+
+
+
+
+"

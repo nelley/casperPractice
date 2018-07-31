@@ -1,0 +1,27 @@
+here N11
+here N11
+here N11
+here N10
+here N10
+here N10
+here N10
+here N10
+here N10
+here N10
+here N10
+here N10
+here N10
+here N10
+word=graphics, n11=3.0, n10=11.0, n01=2.0, n00=18.0
+[comp.graphics]
+0.105713750855 my
+0.105713750855 it
+0.103191160735 these
+0.103191160735 file
+0.103191160735 comp
+0.0913574107622 with
+0.0913574107622 this
+0.0670901003174 at
+0.0567769280389 are
+0.0503754591834 out
+Processed Time:0.01 seconds

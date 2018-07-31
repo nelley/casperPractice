@@ -1,0 +1,101 @@
+"
+
+
+Fw: [徵才] WFC 誠徵 Quantitative Trader - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者wfcltaipei (wF)看板Tech_Job標題Fw: [徵才] WFC 誠徵 Quantitative Trader時間Thu Feb  8 17:06:07 2018
+※ [本文轉錄自 Soft_Job 看板 #1QT-YWNz ]
+
+作者: chin33z () 看板: Soft_Job
+標題: Re: [徵才] WFC 誠徵 Quantitative Trader
+時間: Mon Feb  5 13:16:12 2018
+
+
+公司名稱，統編(中華民國以外註冊可免填): 雯豐資產管理
+
+公司地址(填寫詳細至號):台北市南港區南港路三段50巷24號2樓
+
+職缺: Quantitative Trader
+
+
+職缺能力經歷要求:
+‧ 1+ years work experience in C/C++
+‧ 2+ years work experience in Python, Matlab, or R, working with large
+datasets in statistics and machine learning.
+‧ Bachelor's degree or above in any of the following: engineering, math,
+statistics, econometrics, operations research, computer science, or physics.
+‧ English proficiency NOT required.
+‧ Must be extremely motivated by tremendous upside potential, and
+willingness to take calculated risk.
+‧ Strong interest in financial markets and trading and competitive desire
+to beat the market.
+
+
+工作內容:
+‧ Develop quantitative trading strategies using statistical models to
+capture market inefficiencies.
+‧ Monitor and maintain trading strategies in production to profitability.
+‧ Manage an independent P&amp;L book and lead a team of engineers, data
+scientists,  junior traders, and clerks.
+‧ Decide profit sharing percentages for rest of trading team.
+
+
+員工是否需自備工具? (是/否) :否
+
+薪資(月薪): 年薪60-120萬
+
+年終獎金計算方式: profit sharing 架構
+
+工時: 每天8小時
+
+每日工作時間: 08:30AM~18:00PM (午休1.5小時)
+
+每周工作時間: 40
+
+加班費制度：比照勞基法
+
+工作環境與該職缺團隊介紹: https://www.winfuncapital.com/
+
+人資或徵才聯絡方式:
+Please email your resume to hr@winfuncapital.com
+
+Please upload your resume to Dropbox as a PDF.
+
+Save the PDF name in lower case as
+
+&lt;chinese_name&gt;.&lt;english_last_name&gt;.&lt;english_first_name&gt;.pdf
+
+https://www.dropbox.com/request/0AdzBWMLgFi6OT3iJ1Da
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.160.1.29
+※ 文章網址: https://www.ptt.cc/bbs/Soft_Job/M.1517807776.A.5FD.html
+
+※ 發信站: 批踢踢實業坊(ptt.cc)
+※ 轉錄者: wfcltaipei (114.43.29.150), 02/08/2018 17:06:07
+推 ohmypig: 有考慮收轉職的嗎?
+
+推文自動更新已關閉
+
+
+
+
+"

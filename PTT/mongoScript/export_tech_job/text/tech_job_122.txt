@@ -1,0 +1,119 @@
+"
+
+
+[徵才] 美商AltiGen 徵 IT工程師 - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者sarosa (Sarosa)看板Tech_Job標題[徵才] 美商AltiGen 徵 IT工程師時間Mon Feb  5 14:58:10 2018
+※ [本文轉錄自 Soft_Job 看板 #1QT_wbX- ]
+
+作者: sarosa (Sarosa) 看板: Soft_Job
+標題: [徵才] 美商AltiGen 徵 IT工程師
+時間: Mon Feb  5 14:50:10 2018
+
+
+公司名稱，統編(中華民國以外註冊可免填)：
+  美商艾力迅科技股份有限公司台灣辦事處，58604507
+
+公司地址(填寫詳細至號)：
+  台北市新生南路一段56號3樓之一(捷運忠孝新生站5號出口)
+
+職缺：
+  Microsoft Network Operations Engineer
+
+工作描述：
+　We are seeking an experienced Hosted Operations Engineer to join our team.
+We are looking for someone who has a strong technical background with
+extensive knowledge of Microsoft solutions including System Center, Hyper-V,
+Exchange, SQL, Dynamics, Lync or Skype for Business.
+This individual needs to be a team player and has extensive experience in
+Cloud hosted solutions.
+
+工作內容：
+-Provide tier 2 support for Altigen’s Technical Support Operations and
+ deployment teams.
+-Lead in the resolution of issues that arise during the deployment phase
+ interfacing with AltiGen technical personnel, partners and service providers
+ ensuring customer satisfaction through the entire deployment process.
+-Participate in development and refinement of procedures for managing and
+ monitoring new and existing Cloud service deployments.
+-Participate and provide Cloud support for Skype for Business and 3rd party
+ network and telecommunications product testing and trials.
+
+職缺能力經歷要求：
+-BSEE/CS or equivalent and 5+ years technical experience with managing
+ Microsoft solutions including: Office 365, Windows Server, SQL, Exchange,
+ Lync, Skype for Business, Dynamics, Hyper-V, System Center.
+-MCSE in Productivity Solutions is a plus
+-Knowledge of Cloud hosting, VoIP, IP-PBX or Call Center solutions is a plus.
+-Experience with virtual machine concepts, terminology, usage and
+ infrastructure management.
+-Self-starter with the ability to learn new technologies with minimum
+ assistance and high sense of urgency and ownership.
+-Excellent organizational skills.
+-Excellent verbal and written English communication skills.
+-Must have the ability to travel and work different time shifts as needed.
+
+員工是否需自備工具? (是/否)：否
+
+薪資(月薪)：NTD 65000up
+
+薪資(保證最低年薪，必填項目)：14個月
+
+工時：
+　每日工作時間：8:00AM~5:00PM(中午休息 12:00PM~1:00PM)
+　每周工作時間：8*5=40
+
+加班費制度：比照勞基法
+
+公司分紅與獎金：視績效與公司營收
+
+公司介紹：
+  AltiGen Communications, Inc. (OTCQX: ATGN) is a leading provider of 100%
+Microsoft-based VoIP business phone systems and Hosted Skype for Business
+Unified Communications solutions. Having more than 10,000 customers around
+the world, AltiGen solutions are designed for high reliability, ease of use,
+seamless integration to Microsoft infrastructure technologies, and are built
+on a scalable, open standards platform. AltiGen's worldwide headquarters is
+in Silicon Valley, California, with international operations based in
+Shanghai, China. Local sales, service and support are provided by AltiGen's
+worldwide network of over 300 certified partners. For more information, call
+1-888-ALTIGEN or visit the web site at www.altigen.com.
+
+人資或徵才聯絡方式：
+請將履歷以E-mail投遞至
+　聯絡人:Kevin Yang
+　E-mail: kyang@altigen.com
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.141.7.41
+※ 文章網址: https://www.ptt.cc/bbs/Soft_Job/M.1517813413.A.87E.html
+
+※ 發信站: 批踢踢實業坊(ptt.cc)
+※ 轉錄者: sarosa (220.141.7.41), 02/05/2018 14:58:10
+→ ruthertw: 比一般的高一點點
+推 IhateOGC: 哈欠
+
+推文自動更新已關閉
+
+
+
+
+"

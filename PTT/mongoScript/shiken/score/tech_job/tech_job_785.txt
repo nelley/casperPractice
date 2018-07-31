@@ -1,0 +1,65 @@
+"
+
+
+[討論] BSP engineer - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者jammer (傑莫)看板Tech_Job標題[討論] BSP engineer時間Mon Feb 26 16:34:48 2018
+有收過有關BSP engineer的Job description
+是特別強調MCU相關的經驗
+但公司不是IC設計算是網通產品開發
+像這種網通產品而不是IC設計的BSP team
+特別強調MCU相關是會針對MCU code做什麼修改嗎
+不知各位有什麼看法?
+
+/////
+Familiar with Micro Controller coding, PIC, Arm Cortex-M.
+Familiar with SPI, I2C, UART,...etc.
+Familiar with DMA, DA/AD, Timers.
+Familiar with network application on MCU(Ethernet,Wi-Fi)
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.44.77.39
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1519634091.A.498.html
+推 shinza: 你可以PO出job的內容嗎?
+推 chuegou: 好奇+1
+※ 編輯: jammer (114.44.77.39), 02/26/2018 22:16:46
+※ 編輯: jammer (114.44.77.39), 02/26/2018 22:18:02
+推 shinza: 就是拿一個A家的MCU + B家的Wifi/ethernet 兜成一個產品
+→ shinza: 例如IPCam之類的
+→ jammer: 所以本質上還是main chip的bsp再加上周邊裝置的驅動？
+推 djmay: 我猜拿前人公版code+各家IC或module的SDK和sample code來
+→ djmay: 改;trial&amp;error試看看API和driver怎麼呼叫，東拼西湊出需
+→ djmay: 要的功能；若驗出原廠問題或不足請他們support，叫不動就
+→ djmay: 自己改或workaround或改spec；略懂C和OS就可上工其他進去
+→ djmay: 學
+推 chuegou: 看起來就是一般mcu韌體工程師耶XD
+推 shinza: 講實在話，工作內容很適合初學者跟練功，有廣度但沒深度
+→ shinza: 什麼都碰一點，但又不精深
+推 BaJiaJhon: 打雜工程師
+→ yolasiku: 別傻惹 這家很挑 這缺不收沒經驗的咖
+推 heavenkghs: 可以問是哪一間網通廠嗎？
+
+推文自動更新已關閉
+
+
+
+
+"

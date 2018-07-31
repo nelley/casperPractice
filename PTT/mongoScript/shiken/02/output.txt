@@ -1,0 +1,17 @@
+here N11
+here N11
+here N11
+here N10
+word=graphics, n11=3.0, n10=1.0, n01=2.0, n00=30.0
+[comp.graphics]
+0.191366092386 graphics
+0.101924607914 these
+0.101924607914 file
+0.094909812593 with
+0.094909812593 this
+0.0804887996153 be
+0.0539536752452 can
+0.0514877966945 out
+0.0514877966945 com
+0.0514877966945 appreciated
+Processed Time:0.01 seconds

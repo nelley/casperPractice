@@ -1,0 +1,102 @@
+"
+
+
+Re: [徵才] 拓連科技徵才 - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者decten (聰明豆)看板Tech_Job標題Re: [徵才] 拓連科技徵才時間Tue Feb 13 17:23:37 2018
+
+公司名稱:
+拓連科技股份有限公司 http://www.noodoe.com
+
+公司地址:
+台北市南港區三重路 19-13 號
+
+因應新專案需求擴大徵才。
+
+職缺:
+Experienced Android R&amp;D
+Experienced iOS R&amp;D
+Experienced Frontend/Backend/Full stack R&amp;D
+Experienced Firmware R&amp;D
+Experienced QA
+
+
+職缺能力經歷要求:
+中等英文能力
+三年以上相關開發經驗
+
+加分條件：
+- 熟悉 OOP、Design Pattern 的概念及應用
+- 熟悉 Heroku 或 AWS，有雲端服務串接經驗
+- 熟悉 JSON 及 Restful API 的應用
+- 熟悉 Mixpanel 或其它 User Tracking 平台的概念及應用
+- 熟悉 git 操作以及 git flow 的概念
+- 熟悉 Scrum 流程
+- 對 UI/UX 的敏感度佳
+- 熟悉 Auto testing 佳（QA）
+
+員工是否需自備工具? (是/否) :
+否，配有 24 吋大螢幕及 MacBook Pro
+
+薪資(月薪):
+50K~120K
+
+薪資(保證最低年薪，必填項目):
+14個月
+
+工時:
+9:00~18:00 週休二日
+
+工作環境與該職缺團隊介紹:
+明亮舒適的工作環境，
+有專業又搞笑，一起奮鬥的好同事。
+
+工作福利:
+依照勞基法，外加每年生日假一天及聖誕節當天放假。
+無限量零食供應及現磨咖啡喝到飽
+
+公司分紅與獎金:
+年終2個月
+
+公司介紹:
+Noodoe is looking for iOS/Android/backend/firmware/QA application talents
+to create the next cutting edge IoT (Internet of Things) products.
+The talents collaborate with multidisciplinary teams to create ideations,
+evaluate prototypes, validate functions and verify design quality for
+mass productions. Noodoe's culture is employee-centric and innovative.
+The working atmosphere is open, friendly, positive and fun.
+
+公司網址:
+內有公司產品及相關影片介紹
+http://www.noodoe.com
+http://www.noodoe.com/urbanmobility/
+
+人資或徵才聯絡方式:
+請將履歷寄到 emilychen@noodoe.com，並註明應徵的職位
+※ 編輯: decten (61.220.205.57), 02/13/2018 17:24:07
+推 b004020018: 推～
+
+推文自動更新已關閉
+
+
+
+
+"

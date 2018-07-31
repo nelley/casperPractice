@@ -1,0 +1,88 @@
+"
+
+
+[討論] CP值最高的是哪個單位? - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者striveptt (strive)看板Tech_Job標題[討論] CP值最高的是哪個單位?時間Fri Feb  9 23:31:00 2018
+
+EE
+SW
+IC
+layout
+測試
+產線
+寫測試工具
+寫小軟體公司內部用
+
+就RD系列 哪個類別CP值高最
+
+有聽過寫小工具的 十年都在maintain同樣的工具
+每天沒事做 是真的沒事做 看影片逛網拍 ㄧ年領個80~100
+
+EE 我聽過雜事最多的 也學不完做不完
+SW 就寫 錯了再改
+
+大家覺得CP值最高的是哪種RD呢?
+謝謝
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.227.134.246
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1518190262.A.419.html
+推 jin20040117: IC
+推 NTHU5566: 問葡萄王就知道
+推 echw: 只做過ic 但感覺重選一次想做sw
+推 echw: ic也很雜 一下要跑vcs一下要玩excel一下又要看東看西 或者
+→ echw: 當接線生跟人吵架。。
+推 Neferupito: 看公司看單位啦
+推 Samourai: 外商的RD
+推 Absenting: 我覺得BIOS
+→ moboo: 真的要看公司看單位  就像當兵
+推 z880632: 寫小程式是什麼奇葩單位啊！？
+→ braveht: 公司內部工具啊，通常流程複雜的公司都會需要
+推 vcx530: 警衛
+推 tkhan: 學生廢文..
+噓 nfish: SW 寫錯了再改...這是啥小
+推 yamakazi: tool team 維護公司內部的工具軟體 不用對客戶 沒有死線
+→ yamakazi: 壓力 不錯爽 缺點就是錢比較少
+→ ed78617: layout啊，有的畫得亂七八糟還能耍大牌
+推 tingiy: 寫工具啊  你寫出來了    不要EE就好...
+噓 ttangttand: 純噓SW寫錯了再改
+聽說不少SW都說 你找到問題跟我講哪邊要改 我再改
+※ 編輯: striveptt (36.227.134.246), 02/10/2018 13:05:07
+推 youkiller: IC最雷的吧  測試最爽
+推 super4v: Layout, 很多公司不承認測試是RD!
+→ nearbywang: 看公司
+推 usan: SW可是很操的
+推 AGATELINK: IC就是賽，tool team有同學在，錢少點沒時程壓力愜意多
+→ AGATELINK: 了
+推 showhere: 感覺根本在說我公司阿XF
+推 Fibonaci: IT應該都滿爽的吧
+推 xobear: 以前在RF team就是在寫小工具XD，後來跳槽之後改作SW
+推 sigma0307: 立法委員
+推 dengden: 不是保全CP值最高嗎？
+推 Lee1027: 我們HW怎麼是丟給SW驗  有問題再改
+
+推文自動更新已關閉
+
+
+
+
+"

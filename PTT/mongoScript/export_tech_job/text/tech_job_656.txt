@@ -1,0 +1,60 @@
+"
+
+
+Re: [請益] 系統廠FW的職涯方向 -- 職業篇 - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者abbb1223 (跟著我一起搖擺)看板Tech_Job標題Re: [請益] 系統廠FW的職涯方向 -- 職業篇時間Sat Feb 24 13:47:51 2018
+: 有些RTOS是免費的，又穩定又好用。花大錢找專家來做，要做的跟現有的RTOS一樣好
+: 不是這麼簡單的事情。而且要研發自家RTOS的職缺，應該也不會PO在104上:(
+R: 原來有些RTOS是免費的@@那真的沒必要花錢在研發一個客製化的RTOS
+
+: 如果是系統廠的Linux缺，大部分應該都是要porting driver或application的，需要
+: 有RTOS的經驗，一個原因是他用RTOS，但希望你把Linux driver/applicaiton porting
+: 到RTOS上，這時如果你不懂Linux driver架構，就不知從何搞起了。 另一個原因是其實搞
+: Linux比較不容易有完整的OS觀念，因為linux太強大了，很多東西都做掉了，所以很難有整體觀念XD
+: 例如你能說出一個程式從compiling -&gt;linking-&gt;loading的流程跟原理嗎?
+R: 不好意思，小弟愚昧，請問porting driver指的是什麼意思?
+   Linux driver架構指的是什麼@@可以大致解釋一下給我聽嗎?謝謝!!!!
+   因為linux太強大，很難有整體觀念 &lt;-- 這句話跟ocompiling -&gt; linking -&gt; loading
+   有什麼關係嗎? 我有辦法說出這整個流程跟原理，但這對了解linux有什麼幫助嗎?
+
+: 這個很難回答，因為大的IC廠分很細，例如你可能只專注在interface(USB/SPI) 上面，
+: 而沒有機會去碰IC SPEC/驗證這一塊。 所以你的問題應該從公司大小來做判斷，大公司
+: 很多東西都已經成熟，你不會是第一個開始開發的人，通常都是去debug跟維護現有的東西
+: ，比較偏小螺絲釘。 小公司的話範圍就比較廣了，可能從寫driver/設計(抄)IC spec
+: 到焊板子都會碰到。
+R: 請問專注在interface上面，是\"只要寫有關interface方面的程式\"就好了嗎?
+   比如說，像我在系統廠，就只要專心寫I2C的function就好了
+   IC SPEC/驗證這一塊大致上的內容是在做什麼呢?是指測試工程師嗎?
+
+   謝謝前輩撥冗查閱!
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.228.194.235
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1519451273.A.DE3.html
+→ trama: 你可以回心
+
+推文自動更新已關閉
+
+
+
+
+"

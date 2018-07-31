@@ -1,0 +1,75 @@
+"
+
+
+[新聞] 想在農曆年末找新工作嗎？微軟整合Linked - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者zzzz8931 (宅男)看板Tech_Job標題[新聞] 想在農曆年末找新工作嗎？微軟整合Linked時間Sat Feb 10 15:52:43 2018
+想在農曆年末找新工作嗎？微軟整合LinkedIn推出Office 365履歷助理來幫你
+
+https://www.ithome.com.tw/news/121270
+
+對履歷感到苦手但又想換新工作嗎？那你可能會需要履歷助理（Résumé Assistant）的
+幫忙。微軟去年11月就釋出履歷助理的消息，現在對所有Office 365的訂戶開放，能結合
+LinkedIn資源快速產生殺手級的履歷。
+
+微軟在2015年收購LinkedIn後，內嵌在Word內的履歷助理便是成果之一。輔以人工智慧的
+履歷助理其優點在於，使用者只要選擇產業以及欲應徵的職位，履歷助理便會搜尋
+LinkedIn資源，配對與使用者需求相符的個人檔案，讓使用者知道使用那些詞彙描述自己
+，能更加貼近該產業。
+
+參考範例能幫助使用者，以更有效的方式表達自己的經歷，微軟表示，有LinkedIn上的個
+人檔案做為履歷參考，就能以最強的方式展現自己的專業。履歷助理還會提供使用者，符
+合該產業職位所需要的技能與專業，幫助使用者確實的在履歷中提到重點。
+
+而履歷助理的功能還不只如此，還會為使用者在Word中顯示潛在的工作機會，使用者可以
+在LinkedIn上直接申請，或是打開Open Candidates功能，履歷助理便會低調的通知職位
+召聘人員，使用者對於該工作有高度興趣。
+
+使用者可以在工具列的「檔案」（File）中的「選項」（Options），在「一般」（
+General）標籤頁內的「在我的Office應用程式顯示LinkedIn功能」（Show LinkedIn
+features in my Office applications），開啟履歷助理。
+
+履歷助理的功能只會在特定區域，且顯示語言為英文時才能使用。Winodows區域設定可以
+在Winodows控制面板找到（Windows Control Panel），履歷助理開放區域為澳大利亞、
+巴西、加拿大、中國、印度、日本、紐西蘭、新加坡、南美洲以及美國。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 42.70.211.20
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1518249166.A.D21.html
+推 john631313: 推
+→ invidia: 開放區域沒台灣 Q_Q
+→ ruthertw: 哈哈哈 UCCU
+→ PegasusSeiya: 且台灣HR程度也大多...
+→ chrno: 一般台灣HR習慣的履歷基本還是身家調查報告的延伸版...
+→ PegasusSeiya: 而且農歷年換工作族群應該也不是LinkedIn
+→ PegasusSeiya: 而且Linkedin沒有年紀身高體重可不放照片又全英文，
+→ PegasusSeiya: 對HR來說很不方便 XD
+→ PegasusSeiya: 台灣就算開放對大多公司不適用，也讓原本菁英市場
+→ PegasusSeiya: 素質下降，大家都沒好處
+→ konichiwaman: 又要懶一個了
+推 jerry821203: 推
+
+推文自動更新已關閉
+
+
+
+
+"

@@ -1,0 +1,109 @@
+"
+
+
+[討論] 通訊系統組的未來 - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者ftp013222 (dainding013222)看板Tech_Job標題[討論] 通訊系統組的未來時間Wed Feb 28 12:49:20 2018
+各位 上市公司主管、年薪300萬、漂亮空姐的老公們 大家好
+
+想請問通訊系統組(研究所考機率、線代、訊號與系統、通訊原理)
+在台灣的前景，之前有不少文章討論過，文章都有一段時間了
+從先前文章大概得到的結論是:把coding練好，
+但跑去通訊所練coding，是不是重考資工所比較實際?
+
+雖然這很像學生版的問題，
+但如果發在學生版，一群學生也討論不出什麼所以然.....
+希望各位海涵
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 218.173.155.148
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1519793362.A.5E6.html
+→ roytiu: 通訊IC呢？
+推 peter9s3b: 通訊ic要走電機吧
+→ cmsuteki: 演算法的工作機會極少，待遇也不會比較好，三思
+推 howard6066: 絕大部分到代工廠 寫driver porting之類的 吃不飽餓
+推 IhateOGC: 沒未來，這兩年歐美禁用台灣大陸電信
+→ IhateOGC: 設備
+推 ed78617: 怎麼感覺台灣通訊的硬體軟體出路都...
+差點被丁X X豪 洗腦成功了,看來要認真考慮重考了...
+※ 編輯: ftp013222 (218.173.155.148), 02/28/2018 13:33:19
+推 g1990822: 通訊組也可以找ic的老師 不過通常一組只有幾位而已 有
+→ g1990822: 找到的話出路算不錯啦...
+推 xup6ru8up4: CHT阿，最愛交大電信
+→ flysonics: 通訊要哭出路 那你要控制跟生醫組的去跳海嗎...
+→ game610006: 不用資工所 也可以把coding練強
+→ JasperChang: 不一定寫演算法啊, 大廠會幫你另外找缺, 所名無敵
+→ JasperChang: 頂多就是換做非本職的工作, 門檻過幹嘛浪費時間重考
+推 tommie: 考四大，不會什麼程式也讓你上
+推 StrKO: 資工所就一定會練coding嗎，我484誤會了什麼
+→ msty: 通訊所畢業還不是年薪200以上大有人在，重考才真的是浪費時
+→ msty: 間，職場上際遇大於才能，職場的設計不會複雜，複雜的輪不
+→ msty: 到台灣，天時地利人和缺一不可。
+→ coldreflect: 趕快念畢業才是真的...
+→ coldreflect: 開始估做不一定和你做的有關..除非校名很....
+→ coldreflect: 不然建議直接念畢業工作中學
+推 luke72: 要走軟體就別唸通訊所，直接唸資工
+推 luke72: 要走通訊就去唸IC設計    通訊組的軟體訓練整個半吊子
+推 luke72: 讀電機+通訊，畢業後做sw你就知道輸資工幾年差距
+推 easyman: 衝上去做IC design, 或者跟資工一起coding~
+→ easyman: 那就比較辛苦了
+推 Submariner: 其實cht比較需要資工的人
+→ zhi5566: 以現在就業市場 通訊學的不實用 搞系統演算要也是用博士
+→ zhi5566: 去修資工課 比較實用
+推 ms095raku2: 除非想搞純軟，不然coding只是基本能力，不需要改資工
+→ ms095raku2: 。
+推 mytt: 先畢業 你畢業時什麼會紅也沒人知道
+推 ms095raku2: 結合coding，同時了解potocol，看有沒有機會往底層做
+推 kclvpc: 通訊演算法缺沒那麼多 很大的機率是跟資工一起做SW
+推 froalc: 實驗室做digital phy模擬，工作幾乎沒人做相關的...
+推 Dsman: 通訊系統組出路: 極少數可以走通訊演算法，大多數IC design
+→ Dsman: house/系統廠軟韌體
+→ Dsman: C語言好好練吧，四大出來+會寫C就有豬屎屋軟韌體惹
+→ Dsman: 如果要走純軟或做IC designer就重考吧
+→ kclvpc: 就怕是只用matlab跑跑演算法 連ic廠軟韌體都進不去
+推 lammin: dsman correct
+推 Submariner: 而且跟你將殘酷 資工會搶你們飯碗
+推 nova06091: 補習班哈哈
+推 luke72: 軟韌體除非寫driver啦，不然都被open source取代了
+→ luke72: 你做的事只有把一堆套件組起來而已，薪水當然也是...
+推 luke72: 想突破就是加入open source開發，會發現自己實力不足
+推 luke72: 軟體開發，電機就是缺這塊訓練，電機會coding就可以了
+推 luke72: 當然學校只是領進門而已，軟體100%憑個人努力，大家都很
+→ luke72: 拚
+推 ALiGoo: 各科系都可以練好coding 相反很多資工也不一定有練到codin
+→ ALiGoo: g
+推 achelous: 想在臺灣工作的話, design house的pay相對高, 但design
+→ achelous:  house的核心是演算法和IC designer。演算法缺少，desig
+→ achelous: ner跟狗一樣多，剩下就是幫designer/演算法 patch的FW
+→ achelous: 缺，相對賽。通訊組出來大多做FW, 少數做演算法。建議
+→ achelous: 選IC設計的組來念。…… design house 工作1x年的FW工程
+→ achelous: 師心得
+推 iamonmyway: 推樓上
+推 fg008kimo: 推樓樓上
+→ vespa1652: 代工廠打雜的路過
+推 delacruz: 資電部
+
+推文自動更新已關閉
+
+
+
+
+"

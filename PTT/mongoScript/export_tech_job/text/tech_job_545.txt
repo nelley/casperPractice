@@ -1,0 +1,250 @@
+"
+
+
+[徵才] Skymizer 勇者招募：C/C++ 工程師 - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者catcatcatcat (貓貓貓貓)看板Tech_Job標題[徵才] Skymizer 勇者招募：C/C++ 工程師時間Wed Feb 21 17:13:14 2018
+
+    安安各位年薪三百萬的大大～
+
+    大家好，我是在 Skymizer 打雜的四貓，我現在在版上 po 過兩篇徵才文，
+    非常感謝大家的支持，今年我又來了。按照慣例（？），這篇文章會分成「
+    我的個人經驗」以及「幫公司 po 的文」兩個部份，文章可能會很長，因此
+    廢話不多說，先上職缺一覽表，想快速看職缺的可以點連結，不想點連結讓
+     Skymizer 部落格人氣 +1 ，往下看也會有詳細介紹：
+
+
+    ## 職缺一覽 ##
+    Senior Blockchain Virtual Machine Engineer
+    Junior Blockchain Virtual Machine Engineer
+    Senior Deep Learning Compiler Engineer
+    Compiler/Virtual Machine Engineer
+    Junior Compiler/Virtual Machine Engineer
+    職缺傳送門： https://blog.skymizer.com/2018/02/01/jobs2018/
+    履歷請寄到： cat4@skymizer.com
+
+
+    ## 徵才公司/統編 ##
+    Skymizer :http://www.skymizer.com/
+    台灣發展軟體科技股份有限公司/ 54309531
+
+
+    ## 徵才連結 ##
+https://blog.skymizer.com/jobs2018/
+## 公司介紹投影片##
+https://speakerdeck.com/skymizer/skymizer-recruiting-2018
+    裡面也有公司環境照片
+
+
+    ## 關於我們 ##
+    Skymizer 是頂尖的編譯與虛擬化技術團隊，幫助客戶建立各式的虛擬機與編
+    譯器，增加軟體效能、縮短 time-to-market 時間；目前我們已與世界級的
+    公司合作，一起開發供深度學習 (deep learning) ASIC 使用的編譯器，與
+    新一代區塊鏈上的智能合約 (smart contract) 所使用的虛擬機。除了內部
+    產品，也積極開發及參與 Open Source 的專案。我們熱愛技術、想透過我們
+    的雙手讓軟體界變得更好，為此，需要你的加入！
+
+
+    ## 關於工作 ##
+    在 Skymizer，你可以鑽研最先進的技術，從創造當中得到十足的快樂；享受
+    推理解謎的迷人樂趣，並將之發揮到淋灕盡致。最棒的是，你將和許多科技
+    狂熱的強者一起共事與學習，一起創造下一代的 Compiler 工具與技術。了
+    解未來最好的方式就是和一群神人一起創造它，你會與一些怪才與技術狂熱
+    者一起工作。
+
+
+    ## 職缺一覽 ##
+Senior Blockchain Virtual Machine Engineer
+      Job statement:
+        - design and implement virtual machine framework for blockchain
+        applications
+
+      Job description:
+        - mastery over C and C++
+        - familiar with LLVM framework
+
+      Match one of these requirements
+        - familiar with UNIX system programming
+        - familiar with COSMOS framework
+
+
+    Junior Blockchain Virtual Machine Engineer
+      Job statement:
+        - design and implement virtual machine framework for blockchain
+        applications
+
+      Job description:
+        - familiar with C and C++
+        - experienced with LLVM framework
+        - familiar with UNIX system programming
+        - experienced with COSMOS or Tendermint framework
+
+
+    Senior Deep Learning Compiler Engineer
+      Job statement:
+        - design and implement compiler framework for deep learning system
+
+      Job description:
+        - mastery over C and C++
+        - familiar with LLVM framework
+        - experienced with one of deep learning programming frameworks
+        (Caffe, TensorFlow, MXNET, NNVM/TVM, ONNX, etc.)
+        - have IC development background is a plus, esp. architecture
+        exploration experience
+
+
+    Compiler/Virtual Machine Engineer
+      Job statement:
+        - design and implement Skymizer C/C++ Intelligent Compiler
+
+      Job descriptions:
+        - mastery over C and C++
+        - familiar with LLVM framework
+        - experienced with software performance profiling or hardware
+        architecture exploration
+
+
+    Junior Compiler/Virtual Machine Engineer
+      Job statement:
+        - design and implement Skymizer C/C++ Intelligent Compiler
+
+      Job descriptions:
+        - familiar with C and C++
+        - experienced with LLVM framework
+        - experienced with software performance profiling or hardware
+        architecture exploration
+
+    職缺傳送門： https://blog.skymizer.com/2018/02/01/jobs2018/
+## 公司地址 ##
+    台北市內湖區瑞光路408號12F-2
+
+
+   ## 公司員工是否自備工作工具 ##
+    否
+
+
+    ## 薪資 ##
+    月薪 60000 ~ 150000 元，薪資保障 14 個月。股票或股票選擇權另議。
+
+
+    ## 上班時間 ##
+    10:00~19:00 表定八小時，可彈性調整（早上班就早下班，晚上班就晚下班
+    中間休息時間自行決定）
+
+
+    ## 平均每週工時 ##
+    8*5=40小時
+
+
+    ## 加班費制度 ##
+    如有加班比照勞基法給予加班費或依個人意願選擇補休。
+    我們重視效率遠勝於工時，公司並不鼓勵加班。
+
+
+    ## 員工福利 ##
+    * 彈性的上下班時間，自由的工作環境與風格。
+    * Skymizer 就是你自己的公司，你可以把環境打造你喜歡的舒適樣子
+    * 護眼的雙螢幕、最頂級的升降桌與人體工學椅，自行挑選的滑鼠與鍵盤，還
+    有你想看就可以買的書。
+    * 每年健康檢查及團體保險。
+    * 我們還蠻常出遊的，以及有事沒事就會一起玩桌遊，就算沒有加入我們，還
+    是歡迎一起來打桌遊！
+    * 工作滿一年即給予特休 14 天，每多任職一年會多一天。特休按在職比例計
+    算，於每年初預先發放，未滿一年亦同。
+    * 彈性休假：遇到連假補班日不須補班，並且每年額外享有 4 天可自由安排的
+    彈性休假。
+    * 每年 3 天全薪病假。
+    * 同性伴侶註記視同登記，同享婚假、產假/陪產假、家庭照顧假…等。
+    * 有貢獻就要有收獲！我們會讓最有貢獻的人才有最大的回報。
+    * 公司有貓，[住在 RD 部門的貓] https://www.facebook.com/hachu.cat/
+## 個人主觀經驗 ##
+    嗨，不知道有沒有人看過去年的徵才文
+    https://www.ptt.cc/bbs/Soft_Job/M.1489656354.A.7B9.html  。先聲明
+    一下，這段是我個人主觀經驗撰寫而成，不代表公司、也不是被要求才寫的
+    如同我去年所說的，職缺內容求職網站上隨便找都有，但在 ptt 上就是想
+    多說一點我在這間公司的所見，畢竟平常都是看前輩們大方分享工作經驗學
+    到了很多，也希望能提供有用的資訊給各位參考。如果看完有什麼問題，也
+    歡迎推文問我，有問必答不服來戰（笑），希望能對大家有幫助。
+
+    去年我談了公司文化的部份，有興趣的朋友可以去看看，就不重複贅述了。
+    過了一年，直接帶大家看看最近有什麼變化。公司今年的運動風氣越來越盛
+    ，有越來越多夥伴加入了運動團，有夥伴早上七點揪團去重訓，洗好澡吃個
+    早餐剛好上班，也有夥伴晚上去踩飛輪跟鍛鍊核心，另外也有一群夥伴利用
+    中午時間包班上 TRX 或是去內湖運動中心流一點汗。加入 Skymizer，你的
+    成長絕不只是技術跟年資，還有肌肉量跟健康 \\^0^/
+
+    另外因為公司特休給得很大方，還有額外的彈性休假，有時候大家也會一起
+    請假出去玩。但如果你覺得以上活動太陽光了，不適合宅宅，那可以參加中
+    午動畫推坑團，這是一個推坑朋友看動畫的活動，不管是想拉人入坑你心中
+    的神作，或是想追新番需要人陪看，都歡迎帶著便當揪夥伴一起看。前陣子
+    剛追完《寶石之國》跟《奇諾之旅》，最近看了《POP TEAM EPIC》（不管作
+    者嗑了什麼，都給我來一點！）跟《愛吃拉麵的小泉同學》（這一定不能空
+    腹看）。
+
+    如果你是技術狂人，覺得休閒活動什麼的都太廢了，只想要被技術環繞～我
+    們也有定期的讀書會，大家一起分享最近研究的東西、一起成長。另外我們
+    熱愛開源，去年贊助了 COSCUP、協辦了 BSDTW，今年贊助了 AsiaBSDCon
+    https://2018.asiabsdcon.org/、RubyConf https://2018.rubyconf.tw/ 、
+    g0v summit 還有 DebConf https://debconf18.debconf.org/ ，預計也會
+    贊助 COSCUP。
+
+    公司比較歡樂的部份大 guy 4 這樣。因為我不是工程師，技術方面能分享的
+    有限。如果對我們的 project 有興趣的歡迎投履歷直接來跟 RD 們聊聊噢。
+
+    另外一點點關於履歷的建議，之前在板上看過 MrGuting 大的 po 文覺得滿
+    實際的 #1QEs9-L_ 各位可以參考看看，只有想補充一點，除了 LinkedIn 之
+    外，GitHub repo 或是作品集公司也同樣重視，有的話建議附上，因為開發
+     open source 工具的關係，code quality 公司滿重視的。 我們 blog 上也
+    有一篇關於履歷的文章，不過當時是招募實習生寫給學生看的，可能不是每
+    樣都符合各位前輩，僅供參考：
+    https://blog.skymizer.com/2015/12/08/resume2015/
+
+
+    謝謝各位撥冗閱讀到最後，希望能和你成為夥伴。
+    履歷請寄到： cat4@skymizer.com
+
+
+ --
+    沒有編譯一次解決不了的問題，
+    如果有，就編兩次 (・ω・)　
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.216.75.43
+※ 文章網址: https://www.ptt.cc/bbs/Soft_Job/M.1519202930.A.503.html
+※ 編輯: catcatcatcat (61.216.75.43), 02/21/2018 16:52:23
+推 yicat:  推四貓
+
+※ 發信站: 批踢踢實業坊(ptt.cc)
+※ 轉錄者: catcatcatcat (61.216.75.43), 02/21/2018 17:13:14
+※ 編輯: catcatcatcat (61.216.75.43), 02/21/2018 17:13:37
+※ 編輯: catcatcatcat (61.216.75.43), 02/21/2018 18:15:41
+推 godgunman: 因為編譯很重要所以我都編三次
+推 halajohn: 蠻有趣的
+→ bignumber: 剛好把時下流行的keyword都丟進職稱....呵
+→ invidia: 2次編不過怎麼辦!?
+推 mmonkeyboyy: 真的是所有好名詞都進去了
+推 popmentos: 真的可以找王垠 他也愛貓
+
+推文自動更新已關閉
+
+
+
+
+"

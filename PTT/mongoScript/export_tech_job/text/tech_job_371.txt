@@ -1,0 +1,175 @@
+"
+
+
+[徵才] 台大徵前端開發實習生 - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者martinleu (martinleu)看板Tech_Job標題[徵才] 台大徵前端開發實習生時間Thu Feb  8 19:28:28 2018
+【兼職】
+
+【徵才單位】台大商業智慧實驗室
+
+【工作職缺】前端開發實習生
+
+【開發系統/平台簡介】
+
+由台大工管系陳文華教授領軍，現進行2系統/平台開發，包括：「運動服飾大數據市場情
+報系統」、「運動及戶外服飾產業Motif投資平台」。
+
+        團隊成員：研發團隊Freddy (BS in Computer Science, &amp; Robotics, Carnegie
+ M
+n University )、Luke (MS &amp; BS in Computer Science, University of Waterloo, 全
+球前20名CS學系)、Nelson (台大工管系學士)、C.H. (台大資管系學士)；行銷及運營團
+隊Lillian (哥倫比亞大學國際企業與金融碩士、Cathy (台大工管系學士)
+
+【徵求條件】
+
+1.      基本條件
+
+1.1熟悉 html、css、javascript (ES6+)
+
+1.2 vue.js 使用經驗
+
+1.3 webpack 使用經驗
+
+2.      加分條件
+
+2.1 有網頁 UI/UX 設計經驗
+
+2.2 使用過 git 等版本開發工具
+
+2.3 使用過 node.js (express)
+
+2.4 接觸過 GA API 或其他追蹤工具
+
+3.      對程式撰寫和新創事業具有熱誠、願意接受挑戰
+
+4.      主動積極並富有責任感
+
+5.      樂觀正面、有良好團隊合作與溝通能力
+
+【薪資待遇】時薪$180
+
+【工作地點】台北市大安區青田街7巷7號7樓
+
+【工作時間】每週須有1-2天進辦公室
+
+【連絡方式】Lillian信箱   leechaoying@outlook.com  ，提供履歷時請一併附上曾經
+開發的source code或github連結
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 27.247.200.208
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1518089311.A.771.html
+噓 tw689: 時薪$180
+→ tw689: 建議把條件改成有dreamweaver 拉一拉的經驗
+噓 asneo: 香蕉請猴子來寫吧
+噓 walilaV: 你自己團隊成員去打工願意拿這樣薪水嗎？
+噓 nckux56: 會前端的 你叫他領180
+噓 chujianfeng: 180...幽默
+→ mytt: 勞基法基本工資140
+噓 himan0114: 不虛不是科技人
+噓 sa90517: 哈哈
+噓 mlda888: 180
+噓 juijuijuijui: 貼文前有想過嗎
+噓 BaGaJohn5566: 180......
+噓 hadoop: 我還是去seven站好了
+噓 physicsdk: 時薪180 哈哈哈哈
+噓 Elemath519: 跨菜180
+噓 Marjaja8787: 180？
+→ OhNo386: 樓下180cm
+噓 han3rd: 時薪換葡萄還比較吸引人
+噓 ywc1199: 真的以為掛台大就無價？！
+噓 b20026106: 180？？？
+噓 ireo: 這沒虛到XX對不起社會
+噓 heardeathlod: ㄏㄏ180
+噓 tingiy: 工程師?    算時薪?   台大?
+噓 chesterk5418: 美金嗎？
+推 snowdarkness: 看不起專業至少也要懂得尊重專業吧 還是您不懂專業
+噓 snoopy790428: ..
+噓 lolitass: 哈哈
+噓 HappyBissDay: 嗯？180？
+噓 jonathanhuan: XDDD
+噓 mayu1230: 我大你100 你來我們公司
+噓 pxycho: 時薪180連我學徒等級的都看不下去
+噓 magic704226: 一天八小時，一週五天，一個月四週，月薪28800
+噓 kuangit29: 這時薪超讚的 給推
+噓 b19918025: XD
+噓 black205: ？？？？？這條件 這薪資？？
+噓 joe8112118: 讚哦前端實驗室
+噓 willie0171: 台大還開這價丟臉
+噓 tim19871026: 慣老闆養成，從學校開始做起！
+噓 catvsdog: 時薪180徵工程師? 這不幫噓不行 去徵猴子吧
+噓 BonjourWu: 乾脆來交大，當我老闆助理還比較多。請香蕉吧，猴子比
+→ BonjourWu: 較貴
+噓 misaki030: 我加十塊給你你來我這上班
+噓 WWIII: 滿足以上條件的我出 兩百 別打壞行情好嗎
+推 oilwater: 廢到笑XD
+噓 angel2001118: ..
+噓 BonerOuO: 台大開這種要去給時薪180 你乾脆徵義工
+噓 zeussteven: 180鎂嗎？
+噓 aj175: 認真？條件列一排，打薪水那欄不覺得羞恥嗎
+噓 spirit119: 180
+噓 angelholy: 我是前後端工程師，光第一條薪資沒有4萬就不可能了....
+→ angelholy: 另外，我這行業待6、7年頭一次聽到前端工程師有兼職...
+噓 ruthertw: 讚到不行!
+噓 checkmarx: 嘈
+噓 checkmarx: 母校墮落
+噓 angelholy: 另外再讓我噴一點，神她媽提供source code...
+→ angelholy: 誰會把曾經開發的source code當成履歷條件
+→ angelholy: 我去應徵google那種級別他開這種條件就合理
+推 RayShigeno: 有笑有推
+噓 pxycho: \"曾經開發的source code\" 這種通常只能提供side project
+→ pxycho: 因為工作寫的東西通常都有 NDA 根本不可能曝光
+→ pxycho: 有能力自己搞 side project 的人時薪180真的是妄想
+噓 etohnh3: 這不能只有我看到啊～
+噓 StrKO: 我有養隻猴子 要請他站內信我
+噓 TFnight: 我靠...我還不噓你...
+噓 grace10722: 笑到廢，老娘以上都不會，現在在公司滑手機，時薪都
+→ grace10722: 比這高…
+噓 DCTmaybe: 這徵求條件是隨便挑一個104的職缺複製貼上的吧？
+噓 butterfly21: XDDDDDDD
+噓 godgunman: 這時薪不噓不行
+噓 xxxseanxxx: 別丟我母校的臉好嗎，小朋友們
+→ godgunman: 要可以接受這個時薪，真的是「願意接受挑戰」
+噓 rita910700: 180塊很像菜市場價，你要不要去別版問
+噓 a22918097: 靠背需求開這麼多 這樣給180？不噓不行
+噓 BigHeadDoggy: 笑死 文組價
+→ physicsdk: 台大不是無價，而是高價
+噓 prindrock: 整個不尊重專業啊，不虛不是科技人
+※ 編輯: martinleu (27.247.165.109), 02/09/2018 20:11:32
+※ 編輯: martinleu (27.247.165.109), 02/09/2018 20:11:57
+※ 編輯: martinleu (27.247.165.109), 02/09/2018 20:12:51
+噓 etohnh3: 再噓 怎麼沒有記者來抄啊
+噓 coldplay5566: 丟臉哈哈哈太慘了
+推 james1827364: 一個研發團隊的貴族下海跟賤民相處就要謝主隆恩的
+→ james1827364: 概念？
+噓 ss5010593: 台大無價
+噓 arod3101438: 笑死人
+推 goldie: 好羞辱人的薪資...(無言)
+→ goldie: 還是說是台大光環無價的概念？
+推 pagec: 20年前 啥都不會 在中央的圖書館工讀寫小程式都200了好嗎！
+噓 complament: 180...
+
+推文自動更新已關閉
+
+
+
+
+"

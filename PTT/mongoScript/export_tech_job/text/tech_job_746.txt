@@ -1,0 +1,86 @@
+"
+
+
+Re: [請益] 系統廠FW的職涯方向 -- 職業篇 - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者abbb1223 (跟著我一起搖擺)看板Tech_Job標題Re: [請益] 系統廠FW的職涯方向 -- 職業篇時間Wed Feb 28 14:07:50 2018
+嗨，各位好，小弟消化完後各位的回覆，整理出\"我所理解的回覆\"，如有觀念上的錯誤，
+請各位前輩們糾正，謝謝。
+
+
+在shinza大大的回文中:
+
+\"例如公司的平台跑RTOS，但需要一個wifi，這時會找wifi vendor問有沒有wifi driver\"
+\"怎麼把linux wifi driver弄到公司的RTOS，這個過程就是porting driver\"
+
+-------------------------------------------------------------------------------
+
+這裡的平台指的是MCU，MCU上面有wifi module，但要自己寫一個wifi的function太麻煩，
+所以會找vender有沒有driver(控制wifi模組的函式就叫做driver)，但vender提供的是
+linux版的wifi driver，所以需要porting。
+
+什麼是\"linux版的wifi driver\"?
+
+linux是一個OS，是一個軟體，並不會直接控制到底層，在MCU上，如果只有單純控制I/O、
+周邊模組的function，沒有一個管理者(OS)來管理/配置這些function，代表這顆MCU沒有
+掛OS，反之就是有掛OS。有掛OS的軟體架構一定跟沒有掛OS的軟體架構不一樣(比如中斷的
+方式、task的寫法等等)。
+回到正題，vender提供的是有掛linux的wifi driver，所以軟體架構一定也跟掛RTOS的軟
+體架構不一樣，把linux版本的driver移植到RTOS版本的driver，這個過程叫porting
+
+PS: 平台有很多種(arm、nxp、microchip等等)同樣的平台也有不同的bit數(8-bit、16bit
+等等)，在各種平台上的軟體細節都不一樣(比如有些MCU支援interrupt priority，有些則
+無)，所以同樣功能的driver在不同的平台上，都需要porting
+
+------------------------------------------------------------------------------
+以下是還推文不太清楚的地方，故在這邊詢問
+
+chuegou: linux通常運作在有mmu環境，RTOS則反
+
+請問linux跟RTOS最大的分水嶺就在於mmu(memory management unit)嗎?
+
+WisdomOrLie: 豬屎屋工作也是有分驗證跟應用的
+
+驗證我已經知道工作內容是什麼了，請問應用方面是指?
+
+WisdomOrLie: 當IC出包的時候，就有機會一起定SPEC惹 嘻嘻
+
+在我的認知中，定SPEC指的是寫出一份完整的IC spec，就像是我在使用Microchip的MCU時
+，可以參考這顆device的spec，請問我的理解有錯嗎?
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 60.248.26.157
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1519798073.A.B77.html
+→ JasperChang: os 有排程 mmu 非必備, non os 就一個迴圈打天下
+→ JasperChang: 有些 rtos 可以在沒有 mmu 的架構中運行
+推 join183club: 其實這板前輩門真的蠻熱心的，方向都給你了。接下來
+→ join183club: 你自己google就可以了，或是有機會到該崗位上摸到就
+→ join183club: 懂了。別忘了自己找答案也是工程師的重要技能。
+推 Raikknen: 是vendor
+謝謝
+※ 編輯: abbb1223 (60.248.26.157), 02/28/2018 15:04:41
+
+推文自動更新已關閉
+
+
+
+
+"

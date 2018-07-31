@@ -1,0 +1,114 @@
+"
+
+
+Fw: [徵才] 譜迅資訊股份有限公司 Software Engineer - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者ryuchenchang (陳倉)看板Tech_Job標題Fw: [徵才] 譜迅資訊股份有限公司 Software Engineer時間Sun Feb 11 14:11:54 2018
+※ [本文轉錄自 job 看板 #1QVztzCn ]
+
+作者: ryuchenchang (陳倉) 看板: job
+標題: [台北] 譜迅資訊股份有限公司 Software Engineer
+時間: Sun Feb 11 14:08:58 2018
+
+
+
+
+【公司名稱】
+譜迅資訊股份有限公司
+(代PO)
+
+
+【工作職缺】
+
+ 網頁工程師
+
+【工作內容】
+ - Design and build a multi-tenant enterprise cloud server based on a fully defined spec and architecture.
+ - Integrate with an existing system on both API and database level
+ - Build and maintain web frontend using existing frameworks.
+ - Design and implement RESTful api that’ll be consumed by other in-house components
+
+
+【徵求條件】
+ - 4+ years of developing Java web servers using frameworks such as Ninja or Spring.
+ - Hands-on experience with relational databases such as Postgres or MySql.
+ - 2+ years of web frontend development using one of the popular open source JavaScript frameworks such as Vue.js, angular, React or jQuery.
+ - Hands-on experience with HTML and CSS.
+ - Experience on designing and implementing RESTful interfaces.
+ - Build management tools such as maven or Gradle.
+
+ - Able to read/write English (Verbal skill not required)
+
+ [加分條件]
+ - Native mobile app development on Android and/or iOS.
+ - Bootstrap for web development
+ - Experience with mobile app location tracking
+
+【工作地點】
+
+ 10686 台北市仁愛路四段427號10樓
+
+【工作時間】
+
+ 每週40小時
+
+【月休】
+
+ 週休二日
+
+【公司福利】
+
+ 退休金、以及年節獎金
+
+【薪資範圍】
+
+ 55k - 65k
+
+【需求人數】
+  2 人
+
+【聯絡人/連絡方式】
+ Mr. Kwan edmund@propos.com.tw
+
+【其他備註】
+
+We are at the infant stage of a new spinoff/startup.If you wish to join an exciting startup at the ground level, this is a golden opportunity to have a career breakout. We are looking for a senior engineer with the following qualifications. If you have the following qualification and love challenges, please email us your resume for immediate qualification. 在你的Resume裡，也請簡述您做過的案例經驗，以及希望的待遇。
+
+希望待遇超過65k 也請來信。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 47.41.162.8
+※ 文章網址: https://www.ptt.cc/bbs/job/M.1518329341.A.331.html
+※ ryuchenchang:轉錄至看板 b01902xxx                               02/11 14:10
+
+※ 發信站: 批踢踢實業坊(ptt.cc)
+※ 轉錄者: ryuchenchang (47.41.162.8), 02/11/2018 14:11:54
+※ 編輯: ryuchenchang (47.41.162.8), 02/11/2018 14:13:34
+推 QQ5566: 4年65k有點低
+Sorry, 我會建議
+※ 編輯: ryuchenchang (47.41.162.8), 02/12/2018 15:10:19
+
+推文自動更新已關閉
+
+
+
+
+"

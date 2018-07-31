@@ -1,0 +1,104 @@
+"
+
+
+[請益] 無塵服靜電如何有效去除 - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者a19881130 (淡藍清風)看板Tech_Job標題[請益] 無塵服靜電如何有效去除時間Sat Feb 17 11:30:17 2018
+
+產線每天都要經過ESD測量
+但是常常卡了一堆人
+不知有什麼方法可以快速消除靜電？
+
+-----
+Sent from JPTT on my OnePlus ONEPLUS A3010.
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.137.193.107
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1518838220.A.BC4.html
+推 cloud7515: 機台怎麼消靜電的 人就怎麼消試試看
+推 henrysue: 襪子沾水，拖手套，洗鞋機。
+推 lponnn: 搭鐵啊
+推 Caspermai: 脫掉襪子再進去
+推 nano5421: 偷偷在襪子上噴酒精
+→ fcsh: Tie to ground
+推 Merkle: 身上纏鐵鍊拖到地板cos冰河啊
+推 gj942l41l4: 奇怪我怎麼沒被卡過
+推 acebruce: 瞬啦冰河咧
+推 deltarobot: 穿鞋ㄅㄨㄔㄨㄢㄨㄚ
+→ sc1: 插電池
+推 a077919: 避雷針
+噓 a810086: 脫襪子
+推 synth: 不穿內褲
+推 focker: 戴套
+推 lovehy: 襪子材質
+→ lovehy: 多喝水
+推 pyps88123: 摸旁邊外勞
+→ kirbya: 用汎合金做啊
+→ kirbya: 脫褲撒尿最快
+推 extra7290: 在地板滾幾圈
+推 saab9988: 襪子穿一半 腳跟不要套到襪
+推 alanalan02: 倒立
+推 xxtuoo: 照X光啊XDD
+推 aoisora5566: `X1打一槍
+→ burza: 赤腳阿
+推 aegisty: 後空翻阿
+推 higashi1107: 戴靜電環選我正解
+→ kroya: 三口?
+推 Nyaowan: 請另外一個人按
+噓 pf775: XD
+推 asio123: 選對鞋子比啥小技巧都有用
+→ kumabartho: 熊抱旁邊的外勞妹子啊
+推 ab304044: 在無塵服裡偷尿一把 像鋼鐵人一樣
+推 qqqqwang: by pass
+推 levon: 掰怕私
+推 f204137: by pass 直接通過啊
+推 JustWinslow: 產線摩擦阿
+推 interactive: 辭職
+推 yocpswang: 真主萬歲
+推 ts05593818: 居里溫度
+推 Fast5566: 有種東西叫靜電消除風扇, 多買幾個一起吹就好了
+推 dream1285201: 左腳抬起30度 舌頭舔右手肘
+推 naokidslan: 在無塵鞋鞋底沾水擦一擦 就過了
+推 F2012: 直接從三叉門底下鑽過去
+推 rattrapante: 瞬跟冰河明明就是一體的！！！
+→ rattrapante: 不能拆散他們 那是真愛
+推 MeiHS: 叫旁邊的人幫忙踩
+推 snoopy790428: 先咬手手
+→ popocoool: ionizer
+推 guanole: 瓦干達可能知道
+推 Merman19: 推文很靠北
+推 sanbeidog: 尾行OP進入
+推 MinJun5566: 問帝查拉
+推 YellowC: 這一篇是怎麼回事
+→ snoopy790428: 假裝自己是cassette進去吹吹風啊
+推 edchans: Esd踩一半 腳跟接地必過哦  記得脫手套
+→ gsy810043: 刷別人條碼
+噓 naligono: 用覽X接地
+→ asdg62558: 帶套子
+→ a19881130: 找人幫忙都會被記懲處哩～
+推 JANG19865: 你都沒在洗手
+
+推文自動更新已關閉
+
+
+
+
+"

@@ -1,0 +1,113 @@
+"
+
+
+Re: [新聞] 高雄長出的實驗精神——AI的盜火者杜奕瑾 - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者wesley234 (掃地)看板Tech_Job標題Re: [新聞] 高雄長出的實驗精神——AI的盜火者杜奕瑾時間Wed Feb 28 10:01:00 2018
+※ 引述《sean2449 (肉鬆)》之銘言：
+: ※ 引述《csfgsj (流水貫通)》之銘言：
+: 從我為什麼離開谷歌的程世嘉和翟神
+: 到我為什麼離開微軟的杜奕瑾
+: 台灣媒體是真的很愛跟風寫文章
+: PTT是不是微軟高官...title都看看就好啦
+: 主管級沒錯啦，總監就...
+: 附上領英：https://goo.gl/8xEPce
+
+在外商，人員的職級從上到下大概可分為：
+
+CEO、VP、Director、Manager、Engineer 五個等級
+
+Manager 實在不算是個咖
+
+下面也不過幾個人而已，五個人算很多了
+
+尤其在外商這種  重表現 不論年資的環境中
+
+待了十幾年，卻只升到 Manager，就代表了這個人能力普普而已
+
+有人將 Manager 的中文翻譯成「總監」，這是不是有什麼誤會在其中
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.228.25.35
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1519783266.A.F8B.html
+→ flysonics: 台灣工程師沒辦法升到VP吧 Director就頂天了?
+
+https://imgur.com/a/QNX48
+推 homewen: 微軟不是普通的外商 能進去算很優秀了 在美國也是
+推 totoro35: 重點在Principal吧，senior年資到了就有
+→ totoro35: principal可不容易升。Principal Manager能管多大不確定
+→ totoro35: 就是了。但應該不止於一般的senior manager
+→ Iplay136259: 大家先能進到微軟在說嘴 事實是台灣很多人連進都無法
+推 w180112: 以前能進微軟不難吧  我認識有親戚以前也在裡面沒多久也
+→ w180112: 是跑掉了
+→ lNishan: 微軟的階級幾乎沒在用 Director
+→ lNishan: 微軟裡面有兩個台灣人 VP
+→ lNishan: 而且尤其是微軟台灣人爬到比較高層的特別多
+→ lNishan: 這群人又很照顧自己人 (AI R&amp;D Center) 很感激他們 QQ
+噓 princepisces: 本來臺灣人就打臺灣人最會啊
+→ baseguard: 微軟的manager這麼爛喔 看來本板真是臥虎藏龍
+→ baseguard: 不出來創業輾爆google fb 真是埋沒人才啊
+噓 steve1012: 很多人本來就打高空最會 像是什麼xx泡沫化啦 什麼退潮
+→ steve1012: 沒褲子啦 快笑死了
+噓 labdog: 自己只是甚麼咖, 還敢笑別人. 我都快笑死了
+
+在我十多年的外商生涯中
+
+Principle engineer 看過很多
+
+Engineer 通常又可細分為 Junior、Senior、Staff、Principal
+
+其中 Principal 是 engineer 中的最高等級，也有 Staff 就頂天的狀況
+
+Principal 這個字眼通常只用在 engineer 這個層級
+
+而不會用在 Manager 以上的層級
+
+如果是雙軌制，則Principle engineer 以上就是 Architect 之類的職稱
+
+Principle Manager 這種職稱 我倒是從來沒有聽過
+
+自己去  https://www.glassdoor.com/ 查了一下
+
+也查不到半個 Principle Manager
+
+MS 內真的有這種職稱嗎？
+※ 編輯: wesley234 (61.228.25.35), 02/28/2018 13:09:49
+推 totoro35: 杜的linked in https://goo.gl/8xEPce
+→ totoro35: 每家的職稱不一樣吧，就像上面版友說MS不太用Director
+→ totoro35: 都寫在LinkedIn這種公開資訊了，有問題早被爆料了吧？
+→ totoro35: 或者加他的linked in直接問最快，不必這樣猜測XD
+推 awill: 也許原po也是強者，但對多數台灣人來說，能進MS到這職務再
+→ awill: 回台灣來創業，對來台灣人來說都不是壞事吧
+→ lNishan: Principle Software Engineering Manager. Yes
+→ lNishan: 台灣 SwiftKey team 的 manager 就是
+→ lNishan: 美國 SwiftKey team 的 manager 也是
+→ lNishan: PTT 當初離開微軟時也是 Principle SWE Manager
+→ elements: 微軟有pr manager，就是基層主管，rd路線上去的
+→ substitutor: 前公司pm要去外面參加論壇就是用產品總監的頭銜，實
+→ substitutor: 際上就是板上人人喊打的product or project pm
+
+推文自動更新已關閉
+
+
+
+
+"

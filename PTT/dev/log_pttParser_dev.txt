@@ -1,0 +1,1108 @@
+[2017/09/18 11:52:32 303][pttParser_dev][DEBUG]: main start
+[2017/09/18 11:55:08 663][pttParser_dev][DEBUG]: main start
+[2017/09/18 11:56:56 87][pttParser_dev][DEBUG]: main start
+[2017/09/18 11:56:56 89][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 11:56:56 125][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 11:56:56 125][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 11:56:56 125][pttParser_dev][DEBUG]: start extration
+[2017/09/18 11:56:56 140][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 11:56:56 140][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 11:56:56 141][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 11:56:56 150][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 11:56:56 150][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 11:56:56 161][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 11:56:56 170][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 11:56:56 171][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 11:58:53 890][pttParser_dev][DEBUG]: main start
+[2017/09/18 11:58:53 890][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 11:58:53 899][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 11:58:53 899][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 11:58:53 899][pttParser_dev][DEBUG]: start extration
+[2017/09/18 11:58:53 903][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 11:58:53 903][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 11:58:53 903][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 11:58:53 907][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 11:58:53 907][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 11:58:53 912][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 11:58:53 916][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 11:58:53 916][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 11:59:29 425][pttParser_dev][DEBUG]: main start
+[2017/09/18 11:59:29 425][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 11:59:29 474][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 11:59:29 475][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 11:59:29 476][pttParser_dev][DEBUG]: start extration
+[2017/09/18 11:59:29 511][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 11:59:29 512][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 11:59:29 512][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 11:59:29 560][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 11:59:29 561][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:03:49 726][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 12:03:49 767][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 12:03:49 768][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 12:04:44 856][pttParser_dev][DEBUG]: main start
+[2017/09/18 12:04:44 857][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 12:04:44 902][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 12:04:44 902][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 12:04:44 902][pttParser_dev][DEBUG]: start extration
+[2017/09/18 12:04:44 916][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 12:04:44 917][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 12:04:44 917][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 12:04:44 928][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 12:04:44 929][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:04:44 942][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 12:04:44 946][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 12:04:44 946][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 12:06:47 105][pttParser_dev][DEBUG]: main start
+[2017/09/18 12:06:47 106][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 12:06:47 123][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 12:06:47 123][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 12:06:47 123][pttParser_dev][DEBUG]: start extration
+[2017/09/18 12:06:47 130][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 12:06:47 131][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 12:06:47 131][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 12:06:47 164][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 12:06:47 164][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:06:47 188][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 12:06:47 195][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 12:06:47 195][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 12:08:21 484][pttParser_dev][DEBUG]: main start
+[2017/09/18 12:08:21 485][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 12:08:21 493][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 12:08:21 493][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 12:08:21 493][pttParser_dev][DEBUG]: start extration
+[2017/09/18 12:08:21 498][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 12:08:21 498][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 12:08:21 498][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 12:08:21 503][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 12:08:21 503][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:08:21 543][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 12:08:21 552][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 12:08:21 553][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 12:09:17 403][pttParser_dev][DEBUG]: main start
+[2017/09/18 12:09:17 404][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 12:09:17 412][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 12:09:17 412][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 12:09:17 412][pttParser_dev][DEBUG]: start extration
+[2017/09/18 12:09:17 417][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 12:09:17 417][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 12:09:17 417][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 12:09:17 421][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 12:09:17 421][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:09:17 427][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 12:09:17 430][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 12:09:17 430][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 12:17:36 250][pttParser_dev][DEBUG]: main start
+[2017/09/18 12:17:36 250][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 12:17:36 260][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 12:17:36 260][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 12:17:36 260][pttParser_dev][DEBUG]: start extration
+[2017/09/18 12:17:36 265][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 12:17:36 265][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 12:17:36 265][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 12:17:36 270][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 12:17:36 270][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:17:36 275][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 12:17:36 279][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 12:17:36 279][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 12:26:07 505][pttParser_dev][DEBUG]: main start
+[2017/09/18 12:26:07 506][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 12:26:07 516][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 12:26:07 516][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 12:26:07 516][pttParser_dev][DEBUG]: start extration
+[2017/09/18 12:26:07 521][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 12:26:07 521][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 12:26:07 521][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 12:26:07 525][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 12:26:07 525][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:26:07 554][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 12:26:07 560][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 12:26:07 560][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 12:26:54 604][pttParser_dev][DEBUG]: main start
+[2017/09/18 12:26:54 604][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 12:26:54 619][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 12:26:54 620][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 12:26:54 620][pttParser_dev][DEBUG]: start extration
+[2017/09/18 12:26:54 627][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 12:26:54 627][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 12:26:54 627][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 12:26:54 633][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 12:26:54 633][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:26:54 639][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 12:26:54 647][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 12:26:54 648][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 12:27:29 814][pttParser_dev][DEBUG]: main start
+[2017/09/18 12:27:29 815][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 12:27:29 824][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 12:27:29 824][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 12:27:29 824][pttParser_dev][DEBUG]: start extration
+[2017/09/18 12:27:29 832][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 12:27:29 833][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 12:27:29 834][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 12:27:29 858][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 12:27:29 859][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:27:29 877][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 12:27:29 891][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 12:27:29 891][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 12:45:10 126][pttParser_dev][DEBUG]: main start
+[2017/09/18 12:45:10 127][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 12:45:10 149][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 12:45:10 149][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 12:45:10 149][pttParser_dev][DEBUG]: start extration
+[2017/09/18 12:45:10 161][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 12:45:10 161][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 12:45:10 162][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 12:45:10 174][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 12:45:10 174][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:45:10 180][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 12:45:10 184][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 12:45:10 184][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 12:46:52 790][pttParser_dev][DEBUG]: main start
+[2017/09/18 12:46:52 791][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 12:46:52 801][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 12:46:52 801][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 12:46:52 801][pttParser_dev][DEBUG]: start extration
+[2017/09/18 12:46:52 806][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 12:46:52 806][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 12:46:52 806][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 12:46:52 811][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 12:46:52 811][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:46:52 816][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 12:46:52 820][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 12:46:52 820][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 12:49:52 304][pttParser_dev][DEBUG]: main start
+[2017/09/18 12:49:52 305][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 12:49:52 320][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 12:49:52 321][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 12:49:52 321][pttParser_dev][DEBUG]: start extration
+[2017/09/18 12:49:52 326][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 12:49:52 327][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 12:49:52 327][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 12:49:52 331][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 12:49:52 332][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:49:52 338][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 12:49:52 342][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 12:49:52 342][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 12:54:43 119][pttParser_dev][DEBUG]: main start
+[2017/09/18 12:54:43 119][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 12:54:43 129][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 12:54:43 129][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 12:54:43 129][pttParser_dev][DEBUG]: start extration
+[2017/09/18 12:54:43 133][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 12:54:43 134][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 12:54:43 134][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 12:54:43 138][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 12:54:43 138][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:54:43 144][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 12:58:50 161][pttParser_dev][DEBUG]: main start
+[2017/09/18 12:58:50 162][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 12:58:50 201][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 12:58:50 201][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 12:58:50 201][pttParser_dev][DEBUG]: start extration
+[2017/09/18 12:58:50 209][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 12:58:50 210][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 12:58:50 210][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 12:58:50 219][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 12:58:50 219][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:58:50 225][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 12:59:05 679][pttParser_dev][DEBUG]: main start
+[2017/09/18 12:59:05 680][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 12:59:05 703][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 12:59:05 703][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 12:59:05 703][pttParser_dev][DEBUG]: start extration
+[2017/09/18 12:59:05 709][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 12:59:05 710][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 12:59:05 710][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 12:59:05 717][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 12:59:05 717][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:59:05 725][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 12:59:05 730][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 12:59:05 731][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 12:59:43 341][pttParser_dev][DEBUG]: main start
+[2017/09/18 12:59:43 342][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 12:59:43 387][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 12:59:43 387][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 12:59:43 388][pttParser_dev][DEBUG]: start extration
+[2017/09/18 12:59:43 405][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 12:59:43 406][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 12:59:43 406][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 12:59:43 414][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 12:59:43 415][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 12:59:43 424][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 13:00:16 811][pttParser_dev][DEBUG]: main start
+[2017/09/18 13:00:16 812][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 13:00:16 836][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 13:00:16 836][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 13:00:16 836][pttParser_dev][DEBUG]: start extration
+[2017/09/18 13:00:16 849][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 13:00:16 850][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 13:00:16 850][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 13:00:16 862][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 13:00:16 862][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 13:00:16 869][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 13:00:16 875][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 13:00:16 875][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 13:01:06 237][pttParser_dev][DEBUG]: main start
+[2017/09/18 13:01:06 238][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 13:01:06 253][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 13:01:06 253][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 13:01:06 254][pttParser_dev][DEBUG]: start extration
+[2017/09/18 13:01:06 261][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 13:01:06 262][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 13:01:06 262][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 13:01:06 269][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 13:01:06 269][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 13:01:06 274][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 13:01:06 279][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 13:01:06 279][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 13:02:39 868][pttParser_dev][DEBUG]: main start
+[2017/09/18 13:02:39 869][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 13:02:39 902][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 13:02:39 903][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 13:02:39 903][pttParser_dev][DEBUG]: start extration
+[2017/09/18 13:02:39 911][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 13:02:39 911][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 13:02:39 911][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 13:02:39 919][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 13:02:39 920][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 13:02:39 930][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 13:02:39 939][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 13:02:39 939][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 13:03:14 917][pttParser_dev][DEBUG]: main start
+[2017/09/18 13:03:14 917][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 13:03:14 925][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 13:03:14 925][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 13:03:14 926][pttParser_dev][DEBUG]: start extration
+[2017/09/18 13:03:14 929][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 13:03:14 930][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 13:03:14 930][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 13:03:14 934][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 13:03:14 934][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 13:03:14 938][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 13:03:14 942][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 13:03:14 942][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 13:08:10 982][pttParser_dev][DEBUG]: main start
+[2017/09/18 13:08:10 982][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 13:08:10 994][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 13:08:10 994][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 13:08:10 994][pttParser_dev][DEBUG]: start extration
+[2017/09/18 13:08:11 0][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 13:08:11 0][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 13:08:11 0][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 13:08:11 6][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 13:08:11 6][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 13:08:11 14][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 13:08:11 18][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 13:08:11 19][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 13:08:32 38][pttParser_dev][DEBUG]: main start
+[2017/09/18 13:08:32 39][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 13:08:32 48][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 13:08:32 48][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 13:08:32 48][pttParser_dev][DEBUG]: start extration
+[2017/09/18 13:08:32 53][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 13:08:32 54][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 13:08:32 54][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 13:08:32 59][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 13:08:32 59][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 13:08:32 64][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 13:08:40 990][pttParser_dev][DEBUG]: main start
+[2017/09/18 13:08:40 990][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 13:08:41 1][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 13:08:41 1][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 13:08:41 1][pttParser_dev][DEBUG]: start extration
+[2017/09/18 13:08:41 6][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 13:08:41 6][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 13:08:41 6][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 13:08:41 11][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 13:08:41 11][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 13:08:41 17][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 13:08:41 22][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 13:08:41 23][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 13:09:00 270][pttParser_dev][DEBUG]: main start
+[2017/09/18 13:09:00 270][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 13:09:00 280][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 13:09:00 280][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 13:09:00 280][pttParser_dev][DEBUG]: start extration
+[2017/09/18 13:09:00 284][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 13:09:00 285][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 13:09:00 285][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 13:09:00 289][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 13:09:00 289][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 13:09:00 298][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 13:09:00 306][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 13:09:00 306][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 13:09:41 752][pttParser_dev][DEBUG]: main start
+[2017/09/18 13:09:41 752][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 13:09:41 761][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 13:09:41 761][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 13:09:41 761][pttParser_dev][DEBUG]: start extration
+[2017/09/18 13:09:41 766][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 13:09:41 766][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 13:09:41 766][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 13:09:41 770][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 13:09:41 770][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 13:09:41 787][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 13:09:41 790][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 13:09:41 791][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 13:10:11 517][pttParser_dev][DEBUG]: main start
+[2017/09/18 13:10:11 517][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 13:10:11 527][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 13:10:11 527][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 13:10:11 527][pttParser_dev][DEBUG]: start extration
+[2017/09/18 13:10:11 532][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 13:10:11 532][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 13:10:11 532][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 13:10:11 536][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 13:10:11 536][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 13:10:11 542][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 13:10:11 546][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 13:10:11 546][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 13:52:44 999][pttParser_dev][DEBUG]: main start
+[2017/09/18 13:52:45 0][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 13:52:45 11][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 13:52:45 11][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 13:52:45 11][pttParser_dev][DEBUG]: start extration
+[2017/09/18 13:52:45 16][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 13:52:45 16][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 13:52:45 16][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 13:52:45 21][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 13:52:45 21][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 13:52:45 27][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 13:52:45 31][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 13:52:45 31][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 13:55:12 682][pttParser_dev][DEBUG]: main start
+[2017/09/18 13:55:12 682][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 13:55:12 694][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 13:55:12 695][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 13:55:12 695][pttParser_dev][DEBUG]: start extration
+[2017/09/18 13:55:12 699][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 13:55:12 700][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 13:55:12 700][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 13:55:12 704][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 13:55:12 704][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 13:55:12 709][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 13:55:12 713][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 13:55:12 713][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 13:55:39 606][pttParser_dev][DEBUG]: main start
+[2017/09/18 13:55:39 606][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 13:55:39 617][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 13:55:39 617][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 13:55:39 617][pttParser_dev][DEBUG]: start extration
+[2017/09/18 13:55:39 622][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 13:55:39 622][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 13:55:39 622][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 13:55:39 626][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 13:55:39 626][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 13:55:39 631][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 13:55:39 635][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 13:55:39 635][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 14:08:10 739][pttParser_dev][DEBUG]: main start
+[2017/09/18 14:08:10 739][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 14:08:10 748][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 14:08:10 748][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 14:08:10 748][pttParser_dev][DEBUG]: start extration
+[2017/09/18 14:08:10 752][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 14:08:10 752][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 14:08:10 752][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 14:08:10 756][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 14:08:10 756][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 14:08:10 761][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 14:08:10 765][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 14:08:10 765][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 14:08:57 762][pttParser_dev][DEBUG]: main start
+[2017/09/18 14:08:57 763][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 14:08:57 786][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 14:08:57 786][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 14:08:57 786][pttParser_dev][DEBUG]: start extration
+[2017/09/18 14:08:57 793][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 14:08:57 793][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 14:08:57 793][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 14:08:57 798][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 14:08:57 798][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 14:08:57 806][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 14:08:57 811][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 14:08:57 811][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 14:09:28 619][pttParser_dev][DEBUG]: main start
+[2017/09/18 14:09:28 619][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 14:09:28 628][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 14:09:28 628][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 14:09:28 628][pttParser_dev][DEBUG]: start extration
+[2017/09/18 14:09:28 632][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 14:09:28 632][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 14:09:28 632][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 14:09:28 636][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 14:09:28 636][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 14:09:28 641][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 14:09:28 645][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 14:09:28 645][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 14:39:54 967][pttParser_dev][DEBUG]: main start
+[2017/09/18 14:39:54 967][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 14:39:54 978][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 14:39:54 978][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 14:39:54 978][pttParser_dev][DEBUG]: start extration
+[2017/09/18 14:39:54 984][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 14:39:54 984][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 14:39:54 984][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 14:39:54 988][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 14:39:54 988][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 14:39:54 995][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 14:39:54 999][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 14:39:54 999][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:09:31 440][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:09:31 440][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:09:31 449][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:09:31 449][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:09:31 449][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:09:31 453][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:09:31 453][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:09:31 453][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:09:31 459][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:09:31 460][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:09:31 481][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:09:31 496][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:09:31 496][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:09:59 331][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:09:59 332][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:09:59 359][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:09:59 359][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:09:59 360][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:09:59 364][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:09:59 365][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:09:59 365][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:09:59 374][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:09:59 374][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:09:59 400][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:09:59 407][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:09:59 407][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:11:43 11][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:11:43 11][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:11:43 25][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:11:43 25][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:11:43 25][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:11:43 33][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:11:43 33][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:11:43 34][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:11:43 43][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:11:43 43][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:11:43 63][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:11:43 69][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:11:43 70][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:15:11 887][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:15:11 888][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:15:11 896][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:15:11 897][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:15:11 897][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:15:11 902][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:15:11 902][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:15:11 902][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:15:11 906][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:15:11 907][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:15:11 912][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:15:11 916][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:15:11 916][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:18:37 621][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:18:37 621][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:18:37 629][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:18:37 630][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:18:37 630][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:18:37 634][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:18:37 634][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:18:37 634][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:18:37 638][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:18:37 638][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:18:37 643][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:18:37 649][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:18:37 649][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:19:20 733][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:19:20 733][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:19:20 755][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:19:20 755][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:19:20 755][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:19:20 767][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:19:20 768][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:19:20 768][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:19:20 776][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:19:20 776][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:19:20 790][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:19:20 797][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:19:20 797][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:19:46 203][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:19:46 204][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:19:46 232][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:19:46 232][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:19:46 232][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:19:46 245][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:19:46 246][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:19:46 246][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:19:46 253][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:19:46 253][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:19:46 261][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:19:46 270][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:19:46 270][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:20:13 619][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:20:13 619][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:20:13 629][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:20:13 629][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:20:13 629][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:20:13 633][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:20:13 633][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:20:13 633][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:20:13 637][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:20:13 637][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:20:13 642][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:20:13 649][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:20:13 649][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:20:29 371][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:20:29 371][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:20:29 380][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:20:29 380][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:20:29 380][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:20:29 384][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:20:29 384][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:20:29 384][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:20:29 388][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:20:29 388][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:20:29 393][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:20:29 399][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:20:29 399][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:21:05 783][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:21:05 783][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:21:05 792][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:21:05 792][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:21:05 792][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:21:05 797][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:21:05 798][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:21:05 798][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:21:05 810][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:21:05 810][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:21:05 821][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:21:05 833][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:21:05 833][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:23:02 736][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:23:02 736][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:23:02 757][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:23:02 758][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:23:02 758][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:23:02 778][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:23:02 778][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:23:02 778][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:23:02 787][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:23:02 787][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:23:02 798][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:23:02 806][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:23:02 806][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:35:35 699][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:35:35 699][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:35:35 736][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:35:35 736][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:35:35 736][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:35:35 747][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:35:35 748][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:35:35 748][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:35:35 760][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:35:35 760][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:35:35 767][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:35:35 773][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:35:35 773][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:38:39 411][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:38:39 412][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:38:39 442][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:38:39 443][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:38:39 443][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:38:39 454][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:38:39 455][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:38:39 455][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:38:39 467][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:38:39 468][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:38:39 473][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:38:39 478][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:38:39 479][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:39:08 672][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:39:08 673][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:39:08 697][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:39:08 697][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:39:08 697][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:39:08 707][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:39:08 708][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:39:08 708][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:39:08 713][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:39:08 713][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:39:08 725][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:39:08 737][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:39:08 737][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:39:36 109][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:39:36 109][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:39:36 118][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:39:36 118][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:39:36 118][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:39:36 122][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:39:36 122][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:39:36 122][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:39:36 126][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:39:36 126][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:39:36 131][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:39:36 137][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:39:36 137][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:39:53 264][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:39:53 265][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:39:53 305][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:39:53 305][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:39:53 306][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:39:53 319][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:39:53 320][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:39:53 320][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:39:53 325][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:39:53 325][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:39:53 331][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:39:53 338][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:39:53 338][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:40:24 553][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:40:24 554][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:40:24 583][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:40:24 585][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:40:24 585][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:40:24 593][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:40:24 593][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:40:24 594][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:40:24 602][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:40:24 602][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:40:24 610][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:40:24 616][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:40:24 616][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:42:52 145][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:42:52 146][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:42:52 166][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:42:52 166][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:42:52 166][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:42:52 178][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:42:52 179][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:42:52 179][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:42:52 187][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:42:52 188][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:42:52 198][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:42:52 208][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:42:52 208][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:43:07 828][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:43:07 828][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:43:07 840][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:43:07 840][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:43:07 840][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:43:07 844][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:43:07 845][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:43:07 845][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:43:07 849][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:43:07 849][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:43:07 854][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:43:07 859][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:43:07 859][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:44:11 857][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:44:11 858][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:44:11 892][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:44:11 892][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:44:11 892][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:44:11 901][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:44:11 902][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:44:11 902][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:44:11 910][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:44:11 910][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:44:11 924][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:44:11 935][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:44:11 935][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:44:22 370][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:44:22 371][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:44:22 401][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:44:22 401][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:44:22 401][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:44:22 413][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:44:22 413][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:44:22 413][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:44:22 418][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:44:22 419][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:44:22 426][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:44:22 432][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:44:22 433][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:44:36 54][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:44:36 54][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:44:36 62][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:44:36 63][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:44:36 63][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:44:36 70][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:44:36 72][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:44:36 72][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:44:36 88][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:44:36 88][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:44:36 109][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:44:36 122][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:44:36 122][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:44:56 398][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:44:56 398][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:44:56 406][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:44:56 406][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:44:56 407][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:44:56 410][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:44:56 411][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:44:56 411][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:44:56 415][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:44:56 415][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:44:56 420][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:44:56 425][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:44:56 425][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:45:37 19][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:45:37 20][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:45:37 48][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:45:37 48][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:45:37 48][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:45:37 65][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:45:37 66][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:45:37 66][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:45:37 74][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:45:37 74][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:45:37 80][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:45:37 85][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:45:37 86][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 15:46:02 553][pttParser_dev][DEBUG]: main start
+[2017/09/18 15:46:02 553][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 15:46:02 561][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 15:46:02 561][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 15:46:02 561][pttParser_dev][DEBUG]: start extration
+[2017/09/18 15:46:02 565][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 15:46:02 566][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 15:46:02 566][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 15:46:02 570][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 15:46:02 570][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 15:46:02 575][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 15:46:02 584][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 15:46:02 584][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 23:26:36 273][pttParser_dev][DEBUG]: main start
+[2017/09/18 23:26:36 274][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 23:26:36 285][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 23:26:36 285][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 23:26:36 285][pttParser_dev][DEBUG]: start extration
+[2017/09/18 23:26:36 290][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 23:26:36 290][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 23:26:36 290][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 23:26:36 294][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 23:26:36 294][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 23:26:36 300][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 23:26:36 306][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 23:26:36 306][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 23:31:57 299][pttParser_dev][DEBUG]: main start
+[2017/09/18 23:31:57 299][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 23:31:57 308][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 23:31:57 308][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 23:31:57 308][pttParser_dev][DEBUG]: start extration
+[2017/09/18 23:31:57 312][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 23:31:57 313][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 23:31:57 313][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 23:31:57 317][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 23:31:57 317][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 23:31:57 322][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 23:31:57 327][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 23:31:57 327][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 23:32:17 217][pttParser_dev][DEBUG]: main start
+[2017/09/18 23:32:17 218][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 23:32:17 226][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 23:32:17 227][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 23:32:17 227][pttParser_dev][DEBUG]: start extration
+[2017/09/18 23:32:17 232][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 23:32:17 232][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 23:32:17 232][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 23:32:17 236][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 23:32:17 237][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 23:32:17 247][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 23:32:17 255][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 23:32:17 256][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 23:35:25 539][pttParser_dev][DEBUG]: main start
+[2017/09/18 23:35:25 540][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 23:35:25 549][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 23:35:25 549][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 23:35:25 549][pttParser_dev][DEBUG]: start extration
+[2017/09/18 23:35:25 560][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 23:35:25 561][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 23:35:25 562][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 23:35:25 580][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 23:35:25 581][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 23:35:25 589][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 23:35:25 597][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 23:35:25 597][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 23:37:42 689][pttParser_dev][DEBUG]: main start
+[2017/09/18 23:37:42 690][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 23:37:42 699][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 23:37:42 699][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 23:37:42 699][pttParser_dev][DEBUG]: start extration
+[2017/09/18 23:37:42 703][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 23:37:42 703][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 23:37:42 703][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 23:37:42 708][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 23:37:42 708][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 23:37:42 713][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 23:37:42 720][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 23:37:42 720][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 23:38:30 187][pttParser_dev][DEBUG]: main start
+[2017/09/18 23:38:30 188][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 23:38:30 218][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 23:38:30 218][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 23:38:30 218][pttParser_dev][DEBUG]: start extration
+[2017/09/18 23:38:30 228][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 23:38:30 239][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 23:38:30 240][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 23:38:30 244][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 23:38:30 244][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 23:38:30 250][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 23:38:30 255][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 23:38:30 255][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 23:40:11 160][pttParser_dev][DEBUG]: main start
+[2017/09/18 23:40:11 160][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 23:40:11 169][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 23:40:11 169][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 23:40:11 169][pttParser_dev][DEBUG]: start extration
+[2017/09/18 23:40:11 173][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 23:40:11 173][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 23:40:11 174][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 23:40:11 178][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 23:40:11 178][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 23:40:11 221][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 23:40:11 227][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 23:40:11 227][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 23:41:06 467][pttParser_dev][DEBUG]: main start
+[2017/09/18 23:41:06 468][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 23:41:06 513][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 23:41:06 513][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 23:41:06 513][pttParser_dev][DEBUG]: start extration
+[2017/09/18 23:41:06 524][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 23:41:06 525][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 23:41:06 525][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 23:41:06 532][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 23:41:06 533][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 23:41:06 539][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 23:41:06 548][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 23:41:06 548][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 23:41:39 302][pttParser_dev][DEBUG]: main start
+[2017/09/18 23:41:39 302][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 23:41:39 311][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 23:41:39 311][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 23:41:39 311][pttParser_dev][DEBUG]: start extration
+[2017/09/18 23:41:39 316][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 23:41:39 316][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 23:41:39 317][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 23:41:39 321][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 23:41:39 321][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 23:41:39 330][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 23:41:39 341][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 23:41:39 341][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 23:50:02 677][pttParser_dev][DEBUG]: main start
+[2017/09/18 23:50:02 677][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 23:50:02 686][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 23:50:02 686][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 23:50:02 686][pttParser_dev][DEBUG]: start extration
+[2017/09/18 23:50:02 690][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 23:50:02 691][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 23:50:02 691][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 23:50:02 695][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 23:50:02 695][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 23:50:02 700][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 23:50:02 707][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 23:50:02 707][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 23:51:17 157][pttParser_dev][DEBUG]: main start
+[2017/09/18 23:51:17 157][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 23:51:17 166][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 23:51:17 167][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 23:51:17 167][pttParser_dev][DEBUG]: start extration
+[2017/09/18 23:51:17 171][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 23:51:17 171][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 23:51:17 172][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 23:51:17 176][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 23:51:17 176][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 23:51:17 182][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 23:51:17 188][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 23:51:17 188][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 23:51:49 532][pttParser_dev][DEBUG]: main start
+[2017/09/18 23:51:49 533][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 23:51:49 561][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 23:51:49 561][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 23:51:49 562][pttParser_dev][DEBUG]: start extration
+[2017/09/18 23:51:49 572][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 23:51:49 573][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 23:51:49 573][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 23:51:49 579][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 23:51:49 580][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 23:51:49 586][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 23:51:49 596][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 23:51:49 596][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 23:54:48 796][pttParser_dev][DEBUG]: main start
+[2017/09/18 23:54:48 796][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 23:54:48 805][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 23:54:48 805][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 23:54:48 805][pttParser_dev][DEBUG]: start extration
+[2017/09/18 23:54:48 810][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 23:54:48 810][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 23:54:48 811][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 23:54:48 815][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 23:54:48 815][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 23:54:48 821][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 23:54:48 826][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 23:54:48 827][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 23:59:03 2][pttParser_dev][DEBUG]: main start
+[2017/09/18 23:59:03 2][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 23:59:03 11][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 23:59:03 11][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 23:59:03 11][pttParser_dev][DEBUG]: start extration
+[2017/09/18 23:59:03 16][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 23:59:03 16][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 23:59:03 16][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 23:59:03 20][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 23:59:03 20][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 23:59:03 25][pttParser_dev][DEBUG]: decompose finished
+[2017/09/18 23:59:03 31][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/18 23:59:03 31][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/18 23:59:44 425][pttParser_dev][DEBUG]: main start
+[2017/09/18 23:59:44 426][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/18 23:59:44 441][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/18 23:59:44 441][pttParser_dev][DEBUG]: get meta start
+[2017/09/18 23:59:44 441][pttParser_dev][DEBUG]: start extration
+[2017/09/18 23:59:44 447][pttParser_dev][DEBUG]: extration finished
+[2017/09/18 23:59:44 448][pttParser_dev][DEBUG]: get meta finished
+[2017/09/18 23:59:44 448][pttParser_dev][DEBUG]: get push class count start
+[2017/09/18 23:59:44 452][pttParser_dev][DEBUG]: get push class count end
+[2017/09/18 23:59:44 452][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/18 23:59:44 458][pttParser_dev][DEBUG]: decompose finished
+[2017/09/19 00:00:23 130][pttParser_dev][DEBUG]: main start
+[2017/09/19 00:00:23 130][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/19 00:00:23 140][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/19 00:00:23 140][pttParser_dev][DEBUG]: get meta start
+[2017/09/19 00:00:23 140][pttParser_dev][DEBUG]: start extration
+[2017/09/19 00:00:23 144][pttParser_dev][DEBUG]: extration finished
+[2017/09/19 00:00:23 144][pttParser_dev][DEBUG]: get meta finished
+[2017/09/19 00:00:23 144][pttParser_dev][DEBUG]: get push class count start
+[2017/09/19 00:00:23 148][pttParser_dev][DEBUG]: get push class count end
+[2017/09/19 00:00:23 148][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/19 00:00:23 154][pttParser_dev][DEBUG]: decompose finished
+[2017/09/19 00:00:23 160][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/19 00:00:23 160][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/19 00:01:10 829][pttParser_dev][DEBUG]: main start
+[2017/09/19 00:01:10 830][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/19 00:01:10 839][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/19 00:01:10 840][pttParser_dev][DEBUG]: get meta start
+[2017/09/19 00:01:10 840][pttParser_dev][DEBUG]: start extration
+[2017/09/19 00:01:10 845][pttParser_dev][DEBUG]: extration finished
+[2017/09/19 00:01:10 845][pttParser_dev][DEBUG]: get meta finished
+[2017/09/19 00:01:10 845][pttParser_dev][DEBUG]: get push class count start
+[2017/09/19 00:01:10 850][pttParser_dev][DEBUG]: get push class count end
+[2017/09/19 00:01:10 850][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/19 00:01:10 857][pttParser_dev][DEBUG]: decompose finished
+[2017/09/19 00:01:10 864][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/19 00:01:10 864][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/19 21:25:16 295][pttParser_dev][DEBUG]: main start
+[2017/09/19 21:25:16 366][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/19 21:25:16 403][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/19 21:25:16 403][pttParser_dev][DEBUG]: get meta start
+[2017/09/19 21:25:16 403][pttParser_dev][DEBUG]: start extration
+[2017/09/19 21:25:16 442][pttParser_dev][DEBUG]: extration finished
+[2017/09/19 21:25:16 443][pttParser_dev][DEBUG]: get meta finished
+[2017/09/19 21:25:16 443][pttParser_dev][DEBUG]: get push class count start
+[2017/09/19 21:25:16 447][pttParser_dev][DEBUG]: get push class count end
+[2017/09/19 21:25:16 447][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/19 21:25:16 453][pttParser_dev][DEBUG]: decompose finished
+[2017/09/19 21:25:16 471][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/19 21:25:16 471][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/19 21:25:54 944][pttParser_dev][DEBUG]: main start
+[2017/09/19 21:25:54 944][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/19 21:25:54 953][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/19 21:25:54 953][pttParser_dev][DEBUG]: get meta start
+[2017/09/19 21:25:54 954][pttParser_dev][DEBUG]: start extration
+[2017/09/19 21:25:54 958][pttParser_dev][DEBUG]: extration finished
+[2017/09/19 21:25:54 959][pttParser_dev][DEBUG]: get meta finished
+[2017/09/19 21:25:54 959][pttParser_dev][DEBUG]: get push class count start
+[2017/09/19 21:25:54 964][pttParser_dev][DEBUG]: get push class count end
+[2017/09/19 21:25:54 964][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/19 21:25:54 974][pttParser_dev][DEBUG]: decompose finished
+[2017/09/19 21:25:54 982][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/19 21:25:54 982][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/19 21:36:42 36][pttParser_dev][DEBUG]: main start
+[2017/09/19 21:36:42 36][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/19 21:36:42 45][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/19 21:36:42 46][pttParser_dev][DEBUG]: get meta start
+[2017/09/19 21:36:42 46][pttParser_dev][DEBUG]: start extration
+[2017/09/19 21:36:42 50][pttParser_dev][DEBUG]: extration finished
+[2017/09/19 21:36:42 50][pttParser_dev][DEBUG]: get meta finished
+[2017/09/19 21:36:42 50][pttParser_dev][DEBUG]: get push class count start
+[2017/09/19 21:36:42 54][pttParser_dev][DEBUG]: get push class count end
+[2017/09/19 21:36:42 55][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/19 21:36:42 60][pttParser_dev][DEBUG]: decompose finished
+[2017/09/19 21:36:42 64][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/19 21:36:42 64][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/19 21:38:21 807][pttParser_dev][DEBUG]: main start
+[2017/09/19 21:38:21 808][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/19 21:38:21 844][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/19 21:38:21 845][pttParser_dev][DEBUG]: get meta start
+[2017/09/19 21:38:21 845][pttParser_dev][DEBUG]: start extration
+[2017/09/19 21:38:21 862][pttParser_dev][DEBUG]: extration finished
+[2017/09/19 21:38:21 863][pttParser_dev][DEBUG]: get meta finished
+[2017/09/19 21:38:21 864][pttParser_dev][DEBUG]: get push class count start
+[2017/09/19 21:38:21 876][pttParser_dev][DEBUG]: get push class count end
+[2017/09/19 21:38:21 877][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/19 21:38:21 882][pttParser_dev][DEBUG]: decompose finished
+[2017/09/19 21:38:21 885][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/19 21:38:21 885][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/19 21:39:12 289][pttParser_dev][DEBUG]: main start
+[2017/09/19 21:39:12 290][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/19 21:39:12 299][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/19 21:39:12 300][pttParser_dev][DEBUG]: get meta start
+[2017/09/19 21:39:12 300][pttParser_dev][DEBUG]: start extration
+[2017/09/19 21:39:12 304][pttParser_dev][DEBUG]: extration finished
+[2017/09/19 21:39:12 305][pttParser_dev][DEBUG]: get meta finished
+[2017/09/19 21:39:12 305][pttParser_dev][DEBUG]: get push class count start
+[2017/09/19 21:39:12 309][pttParser_dev][DEBUG]: get push class count end
+[2017/09/19 21:39:12 310][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/19 21:39:12 315][pttParser_dev][DEBUG]: decompose finished
+[2017/09/19 21:39:12 320][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/19 21:39:12 320][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/19 21:40:03 229][pttParser_dev][DEBUG]: main start
+[2017/09/19 21:40:03 230][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/19 21:40:03 251][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/19 21:40:03 252][pttParser_dev][DEBUG]: get meta start
+[2017/09/19 21:40:03 252][pttParser_dev][DEBUG]: start extration
+[2017/09/19 21:40:03 278][pttParser_dev][DEBUG]: extration finished
+[2017/09/19 21:40:03 279][pttParser_dev][DEBUG]: get meta finished
+[2017/09/19 21:40:03 279][pttParser_dev][DEBUG]: get push class count start
+[2017/09/19 21:40:03 285][pttParser_dev][DEBUG]: get push class count end
+[2017/09/19 21:40:03 286][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/19 21:40:03 295][pttParser_dev][DEBUG]: decompose finished
+[2017/09/19 21:40:03 306][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/19 21:40:03 306][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/19 21:41:35 518][pttParser_dev][DEBUG]: main start
+[2017/09/19 21:41:35 518][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/19 21:41:35 554][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/19 21:41:35 554][pttParser_dev][DEBUG]: get meta start
+[2017/09/19 21:41:35 554][pttParser_dev][DEBUG]: start extration
+[2017/09/19 21:41:35 562][pttParser_dev][DEBUG]: extration finished
+[2017/09/19 21:41:35 563][pttParser_dev][DEBUG]: get meta finished
+[2017/09/19 21:41:35 563][pttParser_dev][DEBUG]: get push class count start
+[2017/09/19 21:41:35 571][pttParser_dev][DEBUG]: get push class count end
+[2017/09/19 21:41:35 571][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/19 21:41:35 588][pttParser_dev][DEBUG]: decompose finished
+[2017/09/19 21:42:29 429][pttParser_dev][DEBUG]: main start
+[2017/09/19 21:42:29 430][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/19 21:42:29 467][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/19 21:42:29 467][pttParser_dev][DEBUG]: get meta start
+[2017/09/19 21:42:29 467][pttParser_dev][DEBUG]: start extration
+[2017/09/19 21:42:29 478][pttParser_dev][DEBUG]: extration finished
+[2017/09/19 21:42:29 479][pttParser_dev][DEBUG]: get meta finished
+[2017/09/19 21:42:29 479][pttParser_dev][DEBUG]: get push class count start
+[2017/09/19 21:42:29 493][pttParser_dev][DEBUG]: get push class count end
+[2017/09/19 21:42:29 494][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/19 21:42:29 503][pttParser_dev][DEBUG]: decompose finished
+[2017/09/19 21:42:29 507][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/19 21:42:29 507][pttParser_dev][DEBUG]: removeHTML finished
+[2017/09/19 21:43:04 446][pttParser_dev][DEBUG]: main start
+[2017/09/19 21:43:04 446][pttParser_dev][DEBUG]: removeHTML start, url:/bbs/Gossiping/M.1488298984.A.E75.html
+[2017/09/19 21:43:04 454][pttParser_dev][DEBUG]: extract html contents by tag
+[2017/09/19 21:43:04 454][pttParser_dev][DEBUG]: get meta start
+[2017/09/19 21:43:04 454][pttParser_dev][DEBUG]: start extration
+[2017/09/19 21:43:04 461][pttParser_dev][DEBUG]: extration finished
+[2017/09/19 21:43:04 462][pttParser_dev][DEBUG]: get meta finished
+[2017/09/19 21:43:04 462][pttParser_dev][DEBUG]: get push class count start
+[2017/09/19 21:43:04 470][pttParser_dev][DEBUG]: get push class count end
+[2017/09/19 21:43:04 470][pttParser_dev][DEBUG]: extact contents finished
+[2017/09/19 21:43:04 476][pttParser_dev][DEBUG]: decompose finished
+[2017/09/19 21:43:04 480][pttParser_dev][DEBUG]: html rendering finished
+[2017/09/19 21:43:04 480][pttParser_dev][DEBUG]: removeHTML finished

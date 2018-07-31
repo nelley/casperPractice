@@ -1,0 +1,147 @@
+"
+
+
+[心得] 半導體製造廠推薦排名(新鮮人用) - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者touchBB (CK)看板Tech_Job標題[心得] 半導體製造廠推薦排名(新鮮人用)時間Wed Feb  7 13:48:56 2018
+最近很多學生要畢業了
+
+很多人對半導體製造這個產業不熟悉
+
+這邊就對台灣半導體公司(含設備商) 基本的概略分法 大概分出五等分
+
+五顆星最好
+
+一顆星最差
+
+標準是以推薦程度來分
+
+
+
+五星 : 台積電
+
+四星 : 世界(小gg) 采鈺(小小gg) 精材(封裝界小gg) 美光 旺宏 聯電
+
+三星 : 日月光 力晶 南亞科 力成 南茂 穩懋
+
+兩星 : 設備商 材料商
+
+一星 : other
+
+
+
+這是給新鮮人選擇的一個參考
+
+有想到會再補充
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 42.76.169.9
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1517982538.A.E26.html
+推 sgps50103: 頂級設備商不止兩星吧
+噓 samrt5566: ?
+噓 opqr9988: 精材比封裝廠還...
+推 believe99: KLA AMAT LAM 六顆星，GG五顆星，ASML ASM四顆星 ，oth
+→ believe99: er設備商 三顆星，other製造商兩顆星，other封裝廠 一
+→ believe99: 顆星
+噓 GYmen: 這ID專門吹捧設備工程師
+→ GYmen: 我跟你說 外傷科壘 ASML 應材 都比你GG爽不知多少 沒見識
+→ GYmen: 就不要出來丟人現眼
+    比gg爽 結果薪水被屌打 顆顆
+
+    要比爽怎不去新唐 鉅晶 中美矽 一堆四點半就在等打卡的公司 顆顆
+
+噓 ideo: 你的根據?
+噓 aleks: 甚麼爛排名
+噓 elton80417: 沒排CP值不準喇
+噓 tedium: 外商被評成這樣 你在這個業界待過嗎？
+噓 jjaacckklee: 南科為什麼三星?
+推 st0809466: 傻眼 ㄏㄏ
+噓 plocer: 欠噓....
+噓 GochiUsa: 看到設備商2星就可以笑了
+※ 編輯: touchBB (42.76.169.9), 02/07/2018 14:58:47
+噓 CHEN688: 每次看你留言自以為懂就覺得好有趣
+推 ivylinlin: 台積是真的五星 其他就有待商榷了 部門影響很大
+噓 GYmen: 聽到薪水被屌打更確定你的程度 笑死
+→ GYmen: 你知道英偉達工程師一年領多少嗎?做個輪班顧機台的邱成這樣
+    連代工廠跟design house都搞不清楚也能崩潰xd
+
+→ GYmen: 世界奇觀
+推 tanakataro: 你說設備商薪水不如台積就算了 那有哪一點會不如日月
+→ tanakataro: 光和南茂
+推 i199023: 學生吧 哈哈
+噓 f412062: 根本學生
+噓 clouder0628: 廢文，根本連GG都沒待過吧
+→ milk830122: 所以原po每個都待過嗎
+推 rockyboy: 你是想去設備商應徵不上 上來反串的吧
+噓 lponnn: 學生之間互相交流^_^
+噓 sgps50103: 台積有爽也有操的部門，設備商也是，直接比公司的推文
+→ sgps50103: 都是學生？
+噓 jengmei: 唉
+推 ASEglobal: 日月光跟台積絕對是台灣最重要的半導體廠
+   沒錯 日月光和中鋼在南台灣婆媽心中地位比一堆沒聽過的設備商猛太多
+
+   很多人喜歡活在自己的小圈圈 光比薪水根本比不完
+→ xxp680: 畢業了沒
+噓 nnlisalive: 兩星 : 設備商 材料商 XDDDDDDDDDDDDD
+→ gm6902: 原PO是助工還是技術員?
+→ benptt: 設備商笑而不語
+※ 編輯: touchBB (42.76.169.9), 02/07/2018 17:16:11
+噓 h888512: 你自己才學生吧 力晶樂勝四星那些好嗎
+噓 TKW5566: 放寒假咩
+噓 jengmei: 沒群創先噓
+   別急 有空再來發面板 太陽能 ic設計的排名
+
+噓 a61156114: 所以你這標準到底是什麼?你自爽的標準?
+噓 ozakij: 這不是40k&gt;200k的數學小老師嗎
+→ sc1: 六星雞排
+噓 lponnn: 比薪水比不完的邏輯是什麼？工作內容不管的話 看錢不是最
+→ lponnn: 直接？
+噓 lponnn: 你到底知不知道自己在說什麼？
+噓 lponnn: https://i.imgur.com/kVPtk6q.jpg
+<blockquote class=\"imgur-embed-pub\" data-id=\"kVPtk6q\" lang=\"en\"></blockquote>→ lponnn: 你真的蠻逗趣的私科好意思嘴設備商
+噓 ken52: 害人不淺
+噓 CC0303: 笑了一堆設備商領的錢不輸台積，工時又短
+噓 ruthertw: 暗陰陽!!! 你們把一哥寶寶放哪裡了? (憤怒摔桌上東西)
+噓 elvisman: 畢業了嗎?
+→ chuegou: 可以 這很學生
+噓 shenmue1001: 先說你那間學校的
+※ 編輯: touchBB (42.76.169.9), 02/07/2018 19:58:48
+推 s185673: 私科剛畢業還在找工作就上來嘴-.-
+推 GYmen: 哈哈哈哈 原來是私立科大生阿 對不起 我不該嘴你的
+噓 jakert123: ????
+噓 catvsdog: 菜逼八 討噓
+→ tingiy: 最近畢業?   為什麼  才2月而已
+噓 cccoco: 哈哈哈哈哈哈
+噓 b20026106: 廢成這樣不自刪？
+噓 lponnn: 別說了 他還準備發面板廠的排名呢
+噓 CHEN688: 沒看他每篇公司都評論的很高潮
+→ CHEN688:  https://i.imgur.com/Do62CR1.jpg
+<blockquote class=\"imgur-embed-pub\" data-id=\"Do62CR1\" lang=\"en\"></blockquote>→ CHEN688:  https://i.imgur.com/lID01YB.jpg
+<blockquote class=\"imgur-embed-pub\" data-id=\"lID01YB\" lang=\"en\"></blockquote>噓 gmx10: 這篇是反串還是故意誤導人的？
+噓 anewlive: 穩懋除了卓文萱之外不懂為什麼可以排到三星
+噓 Birdhom: ???
+
+推文自動更新已關閉
+
+
+
+
+"

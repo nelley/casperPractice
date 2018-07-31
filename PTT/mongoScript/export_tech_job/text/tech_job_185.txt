@@ -1,0 +1,53 @@
+"
+
+
+[請益] 設備c-table AVR% - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者asd9 (asd9)看板Tech_Job標題[請益] 設備c-table AVR%時間Thu Feb  8 21:49:19 2018
+請問各位
+因是新手，不太了解設備的文件
+要賣新設備給auo，要提供c-table
+電的部分
+有3項是
+M/C breaker size
+AVR 40%&amp; breaker size
+AVR 100%&amp; breaker size
+有人知道是什麼意思嗎?
+
+有註解-AVR 40%&amp;100%電源，只有EP-02及EP-03
+設備用電大致是 220V, 50A, 11KW
+
+感謝!
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.169.133.75
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1518097762.A.C78.html
+※ 編輯: asd9 (1.169.133.75), 02/08/2018 21:50:06
+推 yuio300: Avr應該是指抗壓降40%和100%吧
+推 erial: 好慘
+推 SUPERBBC1222: 主breaker是幾A?
+
+推文自動更新已關閉
+
+
+
+
+"

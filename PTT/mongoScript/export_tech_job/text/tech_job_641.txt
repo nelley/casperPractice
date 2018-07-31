@@ -1,0 +1,86 @@
+"
+
+
+[討論] 測試大於硬體RD? - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者SuckMyDick56 (傳教士)看板Tech_Job標題[討論] 測試大於硬體RD?時間Fri Feb 23 13:49:34 2018
+最近跟同學聊天 他跟我說系統廠
+測試的缺比RD好多了
+負責找bug給RD 工作輕鬆
+拿的年終薪水也不會比較差
+他還是文組畢業的
+言談之間他認為唸電機系理工科
+出來當個RD也沒比較好
+每天操的半死又宅
+真是把我驚呆了！
+
+是系統廠的常態都是這樣嗎？
+大家覺得呢？
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.137.245.249
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1519364977.A.663.html
+推 anada1217: 喔
+推 yudofu: 4，快去
+→ alubar: 4，有的系統廠DQA講話比RD還要大聲
+推 Stigmata: 是, 只要會講有bug, 比解bug爽太多
+推 JRD: 是 畢竟 如果老闆叫文組的測試去解BUG 那老闆比文組的更智障
+→ Angels5566: 測試連描述BUG都不會  到最後還是要RD自己找
+推 cityhunter04: 一句有問題，就可以搞死RD了！根本不用知道那裡有
+→ cityhunter04: 問題...
+→ abc0922002: 還能準時上下班
+推 R119: 有些還不看SPEC 直接開bug 叫RD解釋
+→ sigma0307: 人家RD之後去外商 你還在代工廠繼續測bug 看一下未來好
+→ sigma0307: 嗎
+推 bluesun183: 薪水沒有比較差   這我不太相信…
+推 zhenglack: 去外商我信
+→ acgotaku: 系統廠沒有RD
+推 feverh: EE還要千拜託萬拜託他們幫忙測，兇的咧
+推 joe7078: 系統廠人人都是雜工 沒有貴賤之分
+推 cplusplus426: 工作輕鬆@@? 薪水沒比較差 ?? 哪家系統廠
+推 ms095raku2: 連PM和RD一起罵，測試超爽
+推 ALiGoo: 跟一堆學店技職的比他也高興 難怪文組
+推 GenesisXD: W齁 XDDDD
+推 kevin820308: 比較爽是有，亂兇RD也有可能，薪水一樣就唬爛了
+→ PPTAlex: 爽是有啦~但是不相信薪水有比RD 高~
+噓 AirJordan45: 別把系統廠RD,想的太高了，就只是rebuild&amp;debug而已
+推 chuegou: RD只是狗
+噓 Peak0731: TE和RD差在 一個找到bug可以幹別人 另一個只能幹自己
+→ Peak0731: 尤其是那種和RD不同部門的測試單位 幹人的時候超有快感
+噓 color529: 一日測試終生測試，
+推 kevin820308: Peak內行
+推 hydefate: 爽缺
+推 glendon: 測試被使喚來始喚去，RD改了什麼繼續測
+推 linjerry0418: glendon才是真內行，測試八年經驗剛轉職
+推 skyant: 測試手法有問題開一堆害RD debug半天也不用負責 真爽
+推 SCLEE5566: 系統廠沒有RD
+噓 ESunBoy: 測試薪水45K算高還低？
+→ ESunBoy: 一天工作4小時，4小時泡茶
+推 dilation: 我信啊...某公司的rd要用儀器設備還得去跟QA求來用勒...
+推 mengche: 文組當測試？ 現在這麼不挑喔？
+推 momoteatea: 測試經驗共接近8年 ，下一間應該要開多少合理？借問
+
+推文自動更新已關閉
+
+
+
+
+"

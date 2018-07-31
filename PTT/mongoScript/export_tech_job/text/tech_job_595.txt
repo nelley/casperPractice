@@ -1,0 +1,62 @@
+"
+
+
+[請益] IC設計轉職 - 看板 Tech_Job - 批踢踢實業坊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+作者howtodo (複雜的心情)看板Tech_Job標題[請益] IC設計轉職時間Sat Feb 24 13:21:16 2018
+大家好！
+IC設計有分很多不同的領域，power, wifi, sensor…等，
+想請問各位達人，不同領域間的轉換是否隔行如隔山呢？
+例如現在做power, 之後想轉往wifi機會大嗎？
+當PM是否比較好轉換？
+謝謝！
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 115.82.209.64
+※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1519449679.A.750.html
+→ jsgoc: 公司有賺錢就好
+推 MarvinBagley: 有缺人就很好轉
+推 kenhsu28: 通常要公司很缺人的時後才有機會換領域
+→ leisurely: 做Wifi很機八耶 你確定要嗎…
+推 yungshengH: 隔行如隔山沒錯 3-5年要換都會拖累你升遷了 要是資歷
+→ yungshengH: 太深要嘛跳不過去 不然就是跳過去頭銜掛太高 專業又
+→ yungshengH: 還跟不上被操很慘.. 慎選
+推 successman: 樓上怎麼說？
+→ successman: Wifi很機八？
+→ wumingxian: 一堆IC廠的高階主管本身也不是designer出身的
+→ flysonics: 問題是他們進去的時間早
+→ wumingxian: 頭銜跟專業又不是正相關，蔡力行都能在電信跟IC廠跳了
+→ wumingxian: 你說蔡力行會下來寫HDL或設計晶片嗎?
+→ wumingxian: 當你頭銜高到某程度，重視的是管理與統籌能力!
+→ flysonics: 頭銜高到某程度的人 我想是不會捨得浪費時間逛本版的..
+推 Eric0605: 二級還可以轉啊 我看過做音訊的轉影像
+→ Eric0605: 也沒有多晚下班
+推 yungshengH: 我沒有針對哪個專業 這只是我看到的 除非你爬到不用設
+→ yungshengH: 計電路的位置吧 但應該要處長以上吧
+推 childlike12: 音訊和影像都是訊號阿，後者多個維度而已
+推 wxes60711: WIFI機八? SERDES笑而不語
+
+推文自動更新已關閉
+
+
+
+
+"
