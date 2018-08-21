@@ -161,8 +161,8 @@ def removeHTML(content, url, category):
     for div in soup.find_all("div", {'id':'navigation-container'}): 
         div.decompose()
     # remove push msg time 
-    for div in soup.find_all("span", {'class':'push-ipdatetime'}): 
-        div.decompose()
+    #for div in soup.find_all("span", {'class':'push-ipdatetime'}): 
+    #    div.decompose()
 
     logger.debug('decompose finished')
 
@@ -171,7 +171,11 @@ def removeHTML(content, url, category):
     [s.extract() for s in soup('script')]
     [s.extract() for s in soup('style')]
 
-    # replace push class to \n
+    # replace span class to none 
+    for div in soup.find_all("span", {'class':'push-ipdatetime'}):
+        div.replaceWith('%s' % div.text)
+
+    # replace push class to \n 
     for div in soup.find_all("div", {'class':'push'}):
         div.replaceWith('%s\n' % div.text)
 

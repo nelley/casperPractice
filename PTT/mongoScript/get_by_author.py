@@ -9,6 +9,9 @@ from mongo_driver import *
 from time import sleep
 import re
 
+
+
+
 #####################################
 #group2 = dict({"$group":{"_id":{"cate":"$category","author":"$author"}, "details":{"$push":{"agree_cnt":"$agree_cnt","disagree_cnt":"$disagree_cnt"}}}})
 #####################################
@@ -56,7 +59,12 @@ def show_post_number_by_category(list_obj):
                 print '======================='
                 sleep(5)
 
+"""
+create a table with OR(agree_cnt || disagree_cnt || fence_cnt)
 
+below is the AND syntax
+match = dict({"$match":{"agree_gteN":True,"disagree_gteN":True,"fence_gteN":True}})
+"""
 def create_tmp_collection_by_criteria(agree_cnt=0, disagree_cnt=0, fence_cnt=0):
     start_time = time.time()
     #project a new field agree_gteN, disagree_gteN, fence_gteN
@@ -67,9 +75,10 @@ def create_tmp_collection_by_criteria(agree_cnt=0, disagree_cnt=0, fence_cnt=0):
                                 "fence_gteN":{"$gte":["$fence_cnt",fence_cnt]},\
                                 }})
     #only show the matched one(agree_gteN)
-    match = dict({"$match":{"agree_gteN":True,"disagree_gteN":True,"fence_gteN":True}})
+    match = dict({"$match":{"$or":[{"agree_gteN":True},{"disagree_gteN":True},{"fence_gteN":True}]}})
     #out to the specific collection
     out = dict({"$out":"temp"})
+    #execute mongodb cmd
     result = conn.Posts.aggregate([project,match,out])
     print 'out create time=%s' % (time.time() - start_time)
 
@@ -81,7 +90,8 @@ def show_posts_by_author(author_list):
     for item in author_list:
         result = list(conn.temp.find({'author':item['_id']['author'], 'category':item['_id']['category']}))
         for post in result:
-            print '%s,\t%s,\t%s,\n%s' % (post['author'], post['title'], post['post_time'], post['content'])
+            #print '%s,\t%s,\t%s,\n%s' % (post['author'], post['title'], post['post_time'], post['content'])
+            print '%s,\t%s,\t%s,\t%s' % (post['author'], post['title'], post['post_time'], post['_id'])
 
 """
 group by author and get top N posts from specific category
@@ -99,34 +109,22 @@ def group_by_author(topN, category):
 
     return sorted_result[:topN]
 
-
-def aggregate_posts_by_author(topN):
-    print '======================================================'
-    start_time = time.time()
-
-    #grouping and count the number of the posts which agree_cnt gte 99
-    group = dict({"$group":{"_id":{"author":"$author"}, "cnt_author":{"$sum":1}}})
-    result = list(conn.temp.aggregate([group]))
-    sorted_result = sorted(result, key = lambda k:k['cnt_author'], reverse=True)
-    print 'out create time=%s' % (time.time() - start_time)
-    for item in sorted_result[:10]:
-        print item
-    print 'hit number=%s' % len(result)
-    print 'query time=%s' % (time.time() - start_time)
-
-    print '===============END===================================='
-
 if __name__ == '__main__':
     try:
         conn = get_db()
         print 'DB connected'
         #author_post_count_list = get_all_author_post_number()
         #show_post_number_by_category(author_post_count_list)
-
         #create_tmp_collection_by_criteria(99,99,99)
-        #aggregate_posts_by_author(10)
-        show_posts_by_author(group_by_author(10, "gossip"))
+        #show_posts_by_author(group_by_author(10, "gossip"))
+        show_posts_by_author(group_by_author(10, "tech_job"))
+
+        refine_comments()
+
+
         print 'finished'
+
+
     except Exception as e:
         print 'Exception:%s' % e
 
